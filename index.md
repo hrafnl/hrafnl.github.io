@@ -1,14 +1,20 @@
 ---
 layout: default
 ---
-<img src="images/Hrafn_Loftsson.jpg" alt="" align="left" border="0" height="90">
-<a href="http://en.ru.is/" target="_blank"><img src="images/RU_logo.png" align="right" alt="Reykjavik University" border="0"></a>
+<table>
+  <tr>
+    <td><img src="images/Hrafn_Loftsson.jpg" style="margin: 0 10px 0 0;" alt="" align="left" border="0" height="90"></td>
+    <td><b>Position</b>: Associate Professor, <a href="http://en.ru.is/CS/" target="_blank">Department of Computer Science</a>, <a href="http://en.ru.is/" target="_blank">Reykjavik University</a>.</td>
+    <td><a href="http://en.ru.is/" target="_blank"><img src="images/RU_logo.png" align="right" alt="Reykjavik University" border="0"></a></td>
+  
+  </tr>
+</table>
 
-<b>Position</b>: Associate Professor, <a href="http://en.ru.is/CS/" target="_blank">Department of Computer Science</a>, <a href="http://en.ru.is/" target="_blank">Reykjavik University</a>.
 <p>
 <b>Research interests</b>: My main research field is Natural Language Processing (NLP). I have published (see <a href="https://scholar.google.is/citations?user=QwLbmpUAAAAJ&hl=en" target="_blank">Google Scholar</a>) methods and tools for morphological
 analysis, part-of-speech tagging, named entity recognition, parsing, machine translation, corpus construction,
 intelligent computer-assisted language learning, question-answering, and clinical NLP.
+
 <p>
 I have also published research in the field of Computer Science Education, in particular about teaching programming.
 <p>
