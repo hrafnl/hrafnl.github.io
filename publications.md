@@ -20,7 +20,7 @@ Appeared in a revised form, subsequent to editorial input by Cambridge Universit
 </p>
 </ol>
 
-<p>
+<br>
 <h3>Conference and workshop papers </h3>
 <ol>
   <li><span class="BibAuthor">Steinþór Steingrímsson, <b>Hrafn Loftsson</b>, and Andy Way</span>. 2023. <a href="https://aclanthology.org/2023.emnlp-demo.22/" target="_blank">SentAlign: Accurate and Scalable Sentence Alignment</a>. In <i>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstrations</i>. Singapore.
@@ -155,7 +155,7 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
 
 </ol>
 
-<p>
+<br>
 <h3>Extended abstracts and posters</h3>
 <ol>
   <li><span class="BibAuthor">Artūrs Vasiļevskis, Jānis Ziediņš, Marko Tadić, Željka Motika, Mark Fishel, <b>Hrafn Loftsson</b>, Jón Guðnason, Claudia Borg, Keith Cortis, Judie Attard and Donatienne Spiteri</span>. 2022. <a href="https://nettt-conference.com/wp-content/uploads/2022/07/Book-of-Abstracts-nettt.pdf" target="_blank">NLTP: National Language Technology Platform</a>. In <i>Proceedings of New Trends in Translation and Technology</i>. Rhodes Island, Greece.
@@ -167,6 +167,7 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
   <li><span class="BibAuthor">Elizabeth S. Adams, Orit Hazzan, <b>Hrafn Loftsson</b> and Alison Young</span>. 2003. <a target="_blank" href="https://dl.acm.org/doi/10.1145/611892.611897">International perspective of women and computer science</a>.  In <i>Proceedings of the 34th SIGCSE technical symposium on Computer science education, SigCSE '03</i>.  Reno, Nevada, USA.
 </ol>
 
+<br>
 <hr>
 <h3>Edited volumes</h3>
 <ol>
@@ -175,6 +176,7 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
 </ol>
 </li>
 
+<br>
 <hr>
 <h3>Technical reports </h3>
 <ol>
@@ -186,7 +188,7 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
 </ol>
 </li>
 
-<p>
+<br>
 <hr>
 <h3>PhD thesis</h3>
 <p><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2007.
@@ -197,7 +199,7 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
 <p><b>Hrafn Loftsson</b>. 2007. The <a href="papers/IceNLP_manual.pdf">IceNLP </a>toolkit.</p>
 <hr-->
 
-<p>
+<br>
 <hr>
 <h3>Teaching material</h3>
 <ol>
@@ -206,6 +208,7 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
 </li>
 </ol>
 
+<br>
 <hr>
 <h3>Newspaper and non-refereed journal articles (in Icelandic)</h3>
 <ol>
