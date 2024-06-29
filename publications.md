@@ -156,63 +156,51 @@ layout: default
 <hr>
 <h3>Edited volumes</h3>
 <ol>
-<li><span class="BibAuthor"><b>Hrafn Loftsson</b>, Eiríkur Rögnvaldsson and Sigrún Helgadóttir</span> (eds). 2010. Advances in Natural Language Processing.
-7th International Conference on NLP, IceTAL 2010, Reykjavik, Iceland, August 2010, Proceedings. © 2010 Springer.
-</li>
+  <li><span class="BibAuthor"><b>Hrafn Loftsson</b>, Eiríkur Rögnvaldsson and Sigrún Helgadóttir</span> (eds). 2010. Advances in Natural Language Processing. 7th International Conference on NLP, IceTAL 2010, Reykjavik, Iceland, August 2010, Proceedings. © 2010 Springer.
+  </li>
 </ol>
 
 
 <hr>
 <h3>Technical reports </h3>
 <ol>
-<li><span class="BibAuthor"><b>Hrafn Loftsson</b> and Eiríkur Rögnvaldsson</span>. 2006.
-<a href="papers/shallowAnnotation.pdf" target="_blank">A shallow syntactic annotation scheme for Icelandic text</a>. Technical Report RUTR-SSE06004, Department of Computer Science, Reykjavik University.
-<!-- <p>Loftsson, H. (2006)
-<a href="http://www.dcs.shef.ac.uk/intranet/research/resmes/CS0604.pdf">Tagging Icelandic text: A linguistic rule-based approach.</a> Technical Report CS-06-04, Department of Computer Science, University of Sheffield.
-</p> -->
-</li>
+  <li><span class="BibAuthor"><b>Hrafn Loftsson</b> and Eiríkur Rögnvaldsson</span>. 2006. <a href="papers/shallowAnnotation.pdf" target="_blank">A shallow syntactic annotation scheme for Icelandic text</a>. Technical Report RUTR-SSE06004, Department of Computer Science, Reykjavik University.
+  </li>
 </ol>
-
 
 <hr>
 <h3>PhD thesis</h3>
 <p><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2007.
 <a href="papers/thesis.pdf" target="_blank">Tagging and parsing Icelandic text</a>. Department of Computer Science, University of Sheffield, United Kingdom.
 
-<!--hr>
-<h3>User manuals </h3>
-<p><b>Hrafn Loftsson</b>. 2007. The <a href="papers/IceNLP_manual.pdf">IceNLP </a>toolkit.</p>
-<hr-->
-
 <hr>
 <h3>Teaching material</h3>
 <ol>
-<li><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2015.
-<a href="papers/ThinkCpp.pdf" target="_blank">Hugsaðu eins og tölvunarfræðingur</a>. An Icelandic translation of the book 'How to Think Like a Computer Scientist', by Allen B. Downey.
-</li>
+  <li><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2015. <a href="papers/ThinkCpp.pdf" target="_blank">Hugsaðu eins og tölvunarfræðingur</a>. An Icelandic translation of the book 'How to Think Like a Computer Scientist', by Allen B. Downey.
+  </li>
 </ol>
 
 <hr>
 <h3>Newspaper and non-refereed journal articles (in Icelandic)</h3>
 <ol>
-<li><a href="https://www.sky.is/images/stories/Tolvumal/Tolvumal_2023.pdf" target="_blank">Notkun gervigreindar í heilbrigðiskerfinu</a>, Tölvumál, nóvember 2023.
-</li>
-<li><a href="https://www.sky.is/images/stories/Tolvumal/Tolvumal_2020.pdf" target="_blank">Vendikennsla í tölvunarfræði</a>, Tölvumál, nóvember 2020.
-</li>
-<li><a href="Newspapers/thydingar.pdf" target="_blank">Nýtt íslenskt-enskt grófþýðingarkerfi frá Máltæknisetri</a>, Tímarit HR, mars 2010.
-</li>
-<li><a href="Newspapers/Maltaekni_v2.pdf" target="_blank">Máltækni í HR</a>, Tímarit HR, maí 2009.
-</li>
-<li><a href="Newspapers/skortur.pdf" target="_blank">Skortur á tölvunarfræðingum - hvað er til ráða?</a>, Viðskiptablaðið, 1. apríl 2008.
-</li>
-<li><a href="Newspapers/MorkunThattun_v2.pdf" target="_blank">Markari og þáttari fyrir íslenskan texta</a>, Tölvumál, febrúar 2008.
-</li>
-<li><a href="Newspapers/maltaekni.pdf" target="_blank">Íslensk tunga og máltækni</a>, Viðskiptablaðið, 27. nóvember, 2007.
-</li>
-<li><a href="Newspapers/godur_valkostur.pdf" target="_blank">Tölvunarfræði er góður valkostur</a>, Morgunblaðið, júlí, 2003.
-</li>
-<li><a href="Newspapers/taeknigreinar.pdf" target="_blank">Nám og rannsóknir í tæknigreinum á háskólastigi</a>, Morgunblaðið, mars 2003.
-</li>
+  <li><a href="https://www.sky.is/images/stories/Tolvumal/Tolvumal_2023.pdf" target="_blank">Notkun gervigreindar í heilbrigðiskerfinu</a>, Tölvumál, nóvember 2023.
+  </li>
+  <li><a href="https://www.sky.is/images/stories/Tolvumal/Tolvumal_2020.pdf" target="_blank">Vendikennsla í tölvunarfræði</a>, Tölvumál, nóvember 2020.
+  </li>
+  <li><a href="Newspapers/thydingar.pdf" target="_blank">Nýtt íslenskt-enskt grófþýðingarkerfi frá Máltæknisetri</a>, Tímarit HR, mars 2010.
+  </li>
+  <li><a href="Newspapers/Maltaekni_v2.pdf" target="_blank">Máltækni í HR</a>, Tímarit HR, maí 2009.
+  </li>
+  <li><a href="Newspapers/skortur.pdf" target="_blank">Skortur á tölvunarfræðingum - hvað er til ráða?</a>, Viðskiptablaðið, 1. apríl 2008.
+  </li>
+  <li><a href="Newspapers/MorkunThattun_v2.pdf" target="_blank">Markari og þáttari fyrir íslenskan texta</a>, Tölvumál, febrúar 2008.
+  </li>
+  <li><a href="Newspapers/maltaekni.pdf" target="_blank">Íslensk tunga og máltækni</a>, Viðskiptablaðið, 27. nóvember, 2007.
+  </li>
+  <li><a href="Newspapers/godur_valkostur.pdf" target="_blank">Tölvunarfræði er góður valkostur</a>, Morgunblaðið, júlí, 2003.
+  </li>
+  <li><a href="Newspapers/taeknigreinar.pdf" target="_blank">Nám og rannsóknir í tæknigreinum á háskólastigi</a>, Morgunblaðið, mars 2003.
+  </li>
 </ol>
 
 </body>
