@@ -3187,7 +3187,7 @@ input, select, textarea {
 
 				#sidebar > .inner {
 					padding: 1.6666666667em 1.6666666667em 1.3333333333em 1.6666666667em ;
-					width: 24em;
+					width: 18em;
 				}
 
 					#sidebar > .inner > .alt {
@@ -3198,7 +3198,7 @@ input, select, textarea {
 
 				#sidebar .toggle {
 					height: 6.25em;
-					left: 24em;
+					left: 18em;
 					line-height: 6.25em;
 					text-indent: 5em;
 					width: 5em;
@@ -3209,7 +3209,7 @@ input, select, textarea {
 					}
 
 				#sidebar.inactive {
-					margin-left: -24em;
+					margin-left: -18em;
 				}
 
 		}
