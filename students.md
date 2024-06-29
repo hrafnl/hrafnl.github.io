@@ -77,7 +77,7 @@ layout: default
 </ol>
 
 <hr>
-<h3>Undergraduate students - Research theses / Final projects</h3>
+<h3>BSc students - Research theses / Final projects</h3>
 <ol>
   <li><span class="BibAuthor">Ólafur Aron Jóhannsson, Birkir Arndal, and Eysteinn Örn Jónsson</span>, B.Sc., January 2024, Reykjavik University.<br>Project: Evaluating Icelandic Sentiment Analysis Models Trained on Translated Data.
   </li>
@@ -98,7 +98,7 @@ layout: default
 </ol>
 
 <hr>
-<h3>Undergraduate students - Independent Study / Research Opportunity</h3>
+<h3>BSc students - Independent Study / Research Opportunity</h3>
 <ol>
   <li><span class="BibAuthor">Ólafur P. Geirsson, Guðmundur Harðarson, Guðmundur Þ. Guðmundsson</span>, Spring 2014, Reykjavik University.<br>Project: <a href="students/BScThesis_Ordspor.pdf" target="_blank">Orðspor: Labeling named entities with computer games</a>.
   </li>
@@ -111,7 +111,7 @@ layout: default
 </ol>
 
 <hr>
-<h3>Undergraduate/gradudate students - The Icelandic Sudent Innovation Fund</h3>
+<h3>Bsc/Msc students - The Icelandic Sudent Innovation Fund</h3>
 <ol>
   <li><span class="BibAuthor">Njáll Skarphéðinsson, Eysteinn Örn Jónsson, and Logi Sigurðarson</span>, Summer 2023, Reykjavik University.<br>Project: <a href="students/NSN_RUQuAD_standardized.pdf" target="_blank">Spanning the Gap: Boosting Question-Answering by Standardizing Answer Spans</a>.
   </li>
