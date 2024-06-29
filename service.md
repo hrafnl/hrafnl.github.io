@@ -63,3 +63,4 @@ the development of Language Technology tools for the Icelandic language.</td></t
 <tr><td>Spring 2001</td><td>Reviewer</td><td>The Icelandic Research Fund.</td></tr>
 <tr><td>Fall 2000</td><td>Reviewer</td><td>The Icelandic Research Fund.</td></tr>
 </table>
+</body>

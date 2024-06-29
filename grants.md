@@ -6,7 +6,7 @@ layout: default
 
 <h2>Grants</h2>
 
-<table border=1 cellspacing=0 cellpadding=3>
+<table>
   <tr><th>Year</th><th>Sponsor</th><th>Project name</th><th>Project manager</th><th>Co-Applicants/Collaborators</th><th>Duration</th><th>Grant</th></tr>
   <tr><td>2023</td><td>The Icelandic Student Innovation Fund</td><td>Question Answering: An app and a machine learning model</td><td>Hrafn Loftsson, Reykjavik University</td><td>Eric Nyberg and Njáll Skarphéðinsson, Carnegie Mellon University</td><td>3 months</td><td>3,060,000 ISK</td></tr>
   <tr><td>2021</td><td>The Strategic Research and Development Programme for Language Technology</td><td>Automatic Entity Linking for Icelandic</td><td>Ólafur Páll Geirsson, Snjallgögn ehf.</td><td>Snjallgögn ehf.; Hrafn Loftsson, Reykjavik University; Hafsteinn Einarsson, University of Iceland<td>3 years</td><td>69 million ISK</td></tr>
@@ -25,10 +25,10 @@ layout: default
   <tr><td>2010</td><td>The Icelandic Student Innovation Fund</td><td>An improved shallow parser for Icelandic text</td><td>Hrafn Loftsson, Reykjavik University</td><td>Eiríkur Rögnvaldsson, University of Iceland; Jón Eðvald Vignisson, CLARA</td><td>3 months</td><td>280,000 ISK</td></tr>
   <tr><td>2009</td><td>The Icelandic Student Innovation Fund</td><td>Tagging and correcting a new corpus</td><td>Hrafn Loftsson, Reykjavik University</td><td>Sigrún Helgadóttir, The Árni Magnússon Institute for Icelandic Studies; Eiríkur Rögnvaldsson, University of Iceland</td><td>3 months</td><td>280,000 ISK</td></tr>
   <tr><td>2009</td><td>The Icelandic Centre for Research (Grant of Excellence)</td><td>Viable Language Technology Beyond English - Icelandic as a Test Case</td><td>Eiríkur Rögnvaldsson, University of Iceland</td><td>Hrafn Loftsson, Reykjavik University; Matthew J. Whelpton, University of Iceland; Kristín Bjarnadóttir, The Árni Magnússon Institute for Icelandic Studies; Anthony Kroch and Joel Wallenberg, University of Pennsylvania; Mikel L. Forcada, Universitat d'Alacant</td><td>3 years</td><td>45 million ISK</td></tr>
-  <!--tr><td>2008</td><td>Reykjavik University Development Fund</td><td>Developing a shallow-transfer translation system using existing tools</td><td>Hrafn Loftsson, Reykjavik University</td><td>Eiríkur Rögnvaldsson, University of Iceland</td><td>2 years</td><td>2.0 million ISK</td></tr-->
   <tr><td>2007</td><td>The Icelandic Centre for Research</td><td>Improved tagging accuracy of Icelandic text</td><td>Hrafn Loftsson, Reykjavik University</td><td>Eiríkur Rögnvaldsson, University of Iceland; Sigrún Helgadóttir, The Institute of Lexicography, University of Iceland</td><td>2 years</td><td>3.1 million ISK</td></tr>
   <tr><td>2007</td><td>The Icelandic Centre for Research</td><td>Context-sensitive spell checking</td><td>Eiríkur Rögnvaldsson, University of Iceland</td><td>Hrafn Loftsson, Reykjavik University; Sigrún Helgadóttir, The Institute of Lexicography, University of Iceland</td><td>2 years</td><td>3.1 million ISK</td></tr>
   <tr><td>2006</td><td>The Icelandic Centre for Research</td><td>Shallow Parsing of Icelandic text</td><td>Eiríkur Rögnvaldsson, University of Iceland</td><td>Hrafn Loftsson, Reykjavik University; Sigrún Helgadóttir, The Institute of Lexicography, University of Iceland</td><td>1 year</td><td>3.8 million ISK</td></tr>
   <tr><td>2006</td><td>University of Iceland</td><td>Context sensitive spelling correction</td><td>Eiríkur Rögnvaldsson, University of Iceland</td><td>Hrafn Loftsson, Reykjavik University; Sigrún Helgadóttir, The Institute of Lexicography, University of Iceland</td><td>First prize in a competition</td><td>500,000 ISK</td></tr>
   <tr><td>2006</td><td>The Icelandic Student Innovation Fund</td><td>Utilisation of a large lexicon for tagging Icelandic text</td><td>Hrafn Loftsson, Reykjavik University</td><td>Kristín Bjarnadóttir, The Institute of Lexicography, University of Iceland</td><td>3 months</td><td>220,000 ISK</td></tr>
 </table>
+</body>

@@ -134,17 +134,17 @@ layout: default
   </li>
   <li><span class="BibAuthor">Julia Elisabeth Haidn</span>, M.Sc., June 2019, Reykjavik University. Project (30 ECTS): <a href="https://skemman.is/handle/1946/33581" target="_blank">Flight Recommender System Using Implicit Feedback</a>. Examiner.
   </li>
-  <li><span class="BibAuthor">Anna Vigdís Rúnarsdóttir</span>, M.Sc., June 2018, Reykjavik University. Project (30 ECTS): <a href=https://skemman.is/handle/1946/31280 target="_blank">Re-Scoring Word Lattices from Automatic Speech Recognition System Based on Manual Error Corrections</a>. Examiner.
+  <li><span class="BibAuthor">Anna Vigdís Rúnarsdóttir</span>, M.Sc., June 2018, Reykjavik University. Project (30 ECTS): <a href="https://skemman.is/handle/1946/31280" target="_blank">Re-Scoring Word Lattices from Automatic Speech Recognition System Based on Manual Error Corrections</a>. Examiner.
   </li>
-  <li><span class="BibAuthor">Tihomir Rangelov</span>, M.A., September 2013, University of Iceland. Project (30 ECTS): <a href=https://skemman.is/handle/1946/16376 target="_blank">Shallow-Transfer Rule-Based Machine Translation between Icelandic and Swedish</a>. External reviewer.
+  <li><span class="BibAuthor">Tihomir Rangelov</span>, M.A., September 2013, University of Iceland. Project (30 ECTS): <a href="https://skemman.is/handle/1946/16376" target="_blank">Shallow-Transfer Rule-Based Machine Translation between Icelandic and Swedish</a>. External reviewer.
   </li>
-  <li><span class="BibAuthor">Francis Morton Tyers</span>, Ph.D., June 2013, Universitat d'Alacant. Thesis: <a href=https://rua.ua.es/dspace/bitstream/10045/35848/1/thesis_FrancisMTyers.pdf target="_blank">Feasible lexical selection for rule-based machine translation</a>. External reviewer.
+  <li><span class="BibAuthor">Francis Morton Tyers</span>, Ph.D., June 2013, Universitat d'Alacant. Thesis: <a href="https://rua.ua.es/dspace/bitstream/10045/35848/1/thesis_FrancisMTyers.pdf" target="_blank">Feasible lexical selection for rule-based machine translation</a>. External reviewer.
   </li>
-  <li><span class="BibAuthor">Yvonne Adesam</span>, Ph.D., October 2012, Stockholm University. Thesis: <a href=https://www.diva-portal.org/smash/get/diva2:547019/FULLTEXT01.pdf target="_blank">Multilingual Trees - Investigating High-quality Cross-lingual Parallel Corpus Processing</a>. Committee member.
+  <li><span class="BibAuthor">Yvonne Adesam</span>, Ph.D., October 2012, Stockholm University. Thesis: <a href="https://www.diva-portal.org/smash/get/diva2:547019/FULLTEXT01.pdf" target="_blank">Multilingual Trees - Investigating High-quality Cross-lingual Parallel Corpus Processing</a>. Committee member.
   </li>
   <!--li><span class="BibAuthor">Anna Björk Nikulásdóttir</span>, Current Ph.D. student, University of Iceland.<p-->
-  <li><span class="BibAuthor">Jón Friðrik Daðason</span>, M.Sc., June 2012, University of Iceland. Thesis (60 ECTS): <a href=https://skemman.is/handle/1946/12085 target="_blank">Post-correction of Icelandic OCR text</a>. Examiner.
+  <li><span class="BibAuthor">Jón Friðrik Daðason</span>, M.Sc., June 2012, University of Iceland. Thesis (60 ECTS): <a href="https://skemman.is/handle/1946/12085" target="_blank">Post-correction of Icelandic OCR text</a>. Examiner.
   </li>
-  <li><span class="BibAuthor">Valdís Sigurþórsdóttir</span>, M.Sc., June 2011, Reykjavik University. Thesis (60 ECTS): <a href=https://en.ru.is/media/skjol-td/towardsAutomatic.pdf target="_blank">Towards Automatic Generation of Realistic Web Query Sequences</a>. Examiner.
+  <li><span class="BibAuthor">Valdís Sigurþórsdóttir</span>, M.Sc., June 2011, Reykjavik University. Thesis (60 ECTS): <a href="https://en.ru.is/media/skjol-td/towardsAutomatic.pdf" target="_blank">Towards Automatic Generation of Realistic Web Query Sequences</a>. Examiner.
   </li>
 </ol>
