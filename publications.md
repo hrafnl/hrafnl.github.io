@@ -16,13 +16,17 @@ layout: default
 Appeared in a revised form, subsequent to editorial input by Cambridge University Press, in <i>Nordic Journal of Linguistics</i>, <b>31(1)</b>: 47-72. © 2008 Cambridge University Press.
 <p>
 <li><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2006. <a target="_blank" href="papers/combi_short3_LRE.pdf">Tagging Icelandic text: An experiment with integrations and combinations of taggers</a>.
-<i>Language Resources and Evaluation</i>, <b>40(2)</b>: 175-181. The original publication is available at <a href=https://link.springer.com/article/10.1007/s10579-006-9013-5 target="_blank">www.springerlink.com</a>.
+<i>Language Resources and Evaluation</i>, <b>40(2)</b>: 175-181. The original publication is available at <a href="https://link.springer.com/article/10.1007/s10579-006-9013-5" target="_blank">www.springerlink.com</a>.
 </p>
 </ol>
 
-<br>
+<hr>
 <h3>Conference and workshop papers </h3>
 <ol>
+  <li><span class="BibAuthor">Magnús F. Helgason, Kári S. Hlífarson, Baldur Olsen, Steindór O. Ellertsson, <b>Hrafn Loftsson</b>, and Stefán Ólafsson</span>. 2024. The Development and Feasibility of a Triage System for Use in Primary Care. In <i>Proceedings of the 12th IEEE International Conference on Healthcare Informatics. Florida, USA.
+  <p>
+  <li><span class="BibAuthor">Ólafur A. Jóhannsson, Birkir H. Arndal, Eysteinn Ö. Jónsson, Stefán Ólafsson, and <b>Hrafn Loftsson</b></span>. 2024. <a herf=" " target="_blank">Evaluating Icelandic Sentiment Analysis Models Trained on Translated Data</a>. In <i>Proceedings of the 3rd Annual Meeting of the Special Interest Group on Under-resourced Languages @ LREC-COLING 2024. Torino, Italy.
+  <p>
   <li><span class="BibAuthor">Steinþór Steingrímsson, <b>Hrafn Loftsson</b>, and Andy Way</span>. 2023. <a href="https://aclanthology.org/2023.emnlp-demo.22/" target="_blank">SentAlign: Accurate and Scalable Sentence Alignment</a>. In <i>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstrations</i>. Singapore.
   <p>
   <li><span class="BibAuthor">Valdimar Eggertsson, Benedikt Geir Jóhannesson, Hafsteinn Einarsson, and <b>Hrafn Loftsson</b></span>. 2023. <a href="papers/Effective_Entity_Disambiguation.pdf" target="_blank">Effective Entity Disambiguation in Low-Resource Languages: A Study of Icelandic</a>. In <i>Proceedings of the 22nd IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology</i>. Venice, Italy.
@@ -152,10 +156,9 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
 <li><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2006. <a target="_blank" href="https://dl.acm.org/doi/10.1007/11816508_64">Tagging a morphologically complex language using heuristics</a>.  In T. Salakoski, F. Ginter, S. Pyysalo and T. Pahikkala (eds.),
 <i>Advances in Natural Language Processing, 5th International Conference on NLP, FinTAL 2006, Proceedings</i>.  Turku, Finland.
 </p>
-
 </ol>
 
-<br>
+<hr>
 <h3>Extended abstracts and posters</h3>
 <ol>
   <li><span class="BibAuthor">Artūrs Vasiļevskis, Jānis Ziediņš, Marko Tadić, Željka Motika, Mark Fishel, <b>Hrafn Loftsson</b>, Jón Guðnason, Claudia Borg, Keith Cortis, Judie Attard and Donatienne Spiteri</span>. 2022. <a href="https://nettt-conference.com/wp-content/uploads/2022/07/Book-of-Abstracts-nettt.pdf" target="_blank">NLTP: National Language Technology Platform</a>. In <i>Proceedings of New Trends in Translation and Technology</i>. Rhodes Island, Greece.
@@ -167,7 +170,6 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
   <li><span class="BibAuthor">Elizabeth S. Adams, Orit Hazzan, <b>Hrafn Loftsson</b> and Alison Young</span>. 2003. <a target="_blank" href="https://dl.acm.org/doi/10.1145/611892.611897">International perspective of women and computer science</a>.  In <i>Proceedings of the 34th SIGCSE technical symposium on Computer science education, SigCSE '03</i>.  Reno, Nevada, USA.
 </ol>
 
-<br>
 <hr>
 <h3>Edited volumes</h3>
 <ol>
@@ -176,7 +178,6 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
 </ol>
 </li>
 
-<br>
 <hr>
 <h3>Technical reports </h3>
 <ol>
@@ -188,7 +189,6 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
 </ol>
 </li>
 
-<br>
 <hr>
 <h3>PhD thesis</h3>
 <p><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2007.
@@ -199,7 +199,6 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
 <p><b>Hrafn Loftsson</b>. 2007. The <a href="papers/IceNLP_manual.pdf">IceNLP </a>toolkit.</p>
 <hr-->
 
-<br>
 <hr>
 <h3>Teaching material</h3>
 <ol>
@@ -208,7 +207,6 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
 </li>
 </ol>
 
-<br>
 <hr>
 <h3>Newspaper and non-refereed journal articles (in Icelandic)</h3>
 <ol>
