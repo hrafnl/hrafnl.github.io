@@ -9,18 +9,18 @@ layout: default
   <li><span class="BibAuthor">Steindór O. Ellertsson, Hlynur D. Hlynsson, <b>Hrafn Loftsson</b>, and Emil L. Sigurðsson</span>. 2023. <a href="https://www.annfammed.org/content/annalsfm/21/3/240.full.pdf" target="_blank">Can triaging patients with respiratory symptoms in primary care using artificial intelligence improve patient outcomes? A retrospective diagnostic accuracy study</a>.
   <i>Annals of Family Medicine</i>, <b>21(3)</b>: 240-248.
   <p>
-<li><span class="BibAuthor">Steindór O. Ellertsson, <b>Hrafn Loftsson</b> and Emil L. Sigurðsson</span>. 2021. <a href=https://www.tandfonline.com/doi/full/10.1080/02813432.2021.1973255 target="_blank">Artificial intelligence in the GPs office: A retrospective study on diagnostic accuracy</a>.
+<li><span class="BibAuthor">Steindór O. Ellertsson, <b>Hrafn Loftsson</b> and Emil L. Sigurðsson</span>. 2021. <a href="https://www.tandfonline.com/doi/full/10.1080/02813432.2021.1973255" target="_blank">Artificial intelligence in the GPs office: A retrospective study on diagnostic accuracy</a>.
 <i>Scandinavian Journal of Primary Health Care</i>, <b>39(4)</b>: 448-458. <br> DOI: 10.1080/02813432.2021.1973255.
 <p>
 <li><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2008. <a target="_blank" href="papers/IceTagger_final.pdf">Tagging Icelandic text: A linguistic rule-based approach</a>.
 Appeared in a revised form, subsequent to editorial input by Cambridge University Press, in <i>Nordic Journal of Linguistics</i>, <b>31(1)</b>: 47-72. © 2008 Cambridge University Press.
 <p>
-<li><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2006. <a target="_blank" href=papers/combi_short3_LRE.pdf>Tagging Icelandic text: An experiment with integrations and combinations of taggers</a>.
+<li><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2006. <a target="_blank" href="papers/combi_short3_LRE.pdf">Tagging Icelandic text: An experiment with integrations and combinations of taggers</a>.
 <i>Language Resources and Evaluation</i>, <b>40(2)</b>: 175-181. The original publication is available at <a href=https://link.springer.com/article/10.1007/s10579-006-9013-5 target="_blank">www.springerlink.com</a>.
 </p>
 </ol>
 
-
+<p>
 <h3>Conference and workshop papers </h3>
 <ol>
   <li><span class="BibAuthor">Steinþór Steingrímsson, <b>Hrafn Loftsson</b>, and Andy Way</span>. 2023. <a href="https://aclanthology.org/2023.emnlp-demo.22/" target="_blank">SentAlign: Accurate and Scalable Sentence Alignment</a>. In <i>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstrations</i>. Singapore.
@@ -155,6 +155,7 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
 
 </ol>
 
+<p>
 <h3>Extended abstracts and posters</h3>
 <ol>
   <li><span class="BibAuthor">Artūrs Vasiļevskis, Jānis Ziediņš, Marko Tadić, Željka Motika, Mark Fishel, <b>Hrafn Loftsson</b>, Jón Guðnason, Claudia Borg, Keith Cortis, Judie Attard and Donatienne Spiteri</span>. 2022. <a href="https://nettt-conference.com/wp-content/uploads/2022/07/Book-of-Abstracts-nettt.pdf" target="_blank">NLTP: National Language Technology Platform</a>. In <i>Proceedings of New Trends in Translation and Technology</i>. Rhodes Island, Greece.
@@ -172,6 +173,7 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
 <li><span class="BibAuthor"><b>Hrafn Loftsson</b>, Eiríkur Rögnvaldsson and Sigrún Helgadóttir</span> (eds). 2010. Advances in Natural Language Processing.
 7th International Conference on NLP, IceTAL 2010, Reykjavik, Iceland, August 2010, Proceedings. © 2010 Springer.
 </ol>
+</li>
 
 <hr>
 <h3>Technical reports </h3>
@@ -182,7 +184,9 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
 <a href="http://www.dcs.shef.ac.uk/intranet/research/resmes/CS0604.pdf">Tagging Icelandic text: A linguistic rule-based approach.</a> Technical Report CS-06-04, Department of Computer Science, University of Sheffield.
 </p> -->
 </ol>
+</li>
 
+<p>
 <hr>
 <h3>PhD thesis</h3>
 <p><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2007.
@@ -193,25 +197,36 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
 <p><b>Hrafn Loftsson</b>. 2007. The <a href="papers/IceNLP_manual.pdf">IceNLP </a>toolkit.</p>
 <hr-->
 
+<p>
 <hr>
 <h3>Teaching material</h3>
 <ol>
 <li><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2015.
 <a href="papers/ThinkCpp.pdf" target="_blank">Hugsaðu eins og tölvunarfræðingur</a>. An Icelandic translation of the book 'How to Think Like a Computer Scientist', by Allen B. Downey.
+</li>
 </ol>
 
 <hr>
 <h3>Newspaper and non-refereed journal articles (in Icelandic)</h3>
 <ol>
 <li><a href="https://www.sky.is/images/stories/Tolvumal/Tolvumal_2023.pdf" target="_blank">Notkun gervigreindar í heilbrigðiskerfinu</a>, Tölvumál, nóvember 2023.
+</li>
 <li><a href="https://www.sky.is/images/stories/Tolvumal/Tolvumal_2020.pdf" target="_blank">Vendikennsla í tölvunarfræði</a>, Tölvumál, nóvember 2020.
+</li>
 <li><a href="Newspapers/thydingar.pdf" target="_blank">Nýtt íslenskt-enskt grófþýðingarkerfi frá Máltæknisetri</a>, Tímarit HR, mars 2010.
+</li>
 <li><a href="Newspapers/Maltaekni_v2.pdf" target="_blank">Máltækni í HR</a>, Tímarit HR, maí 2009.
+</li>
 <li><a href="Newspapers/skortur.pdf" target="_blank">Skortur á tölvunarfræðingum - hvað er til ráða?</a>, Viðskiptablaðið, 1. apríl 2008.
+</li>
 <li><a href="Newspapers/MorkunThattun_v2.pdf" target="_blank">Markari og þáttari fyrir íslenskan texta</a>, Tölvumál, febrúar 2008.
+</li>
 <li><a href="Newspapers/maltaekni.pdf" target="_blank">Íslensk tunga og máltækni</a>, Viðskiptablaðið, 27. nóvember, 2007.
+</li>
 <li><a href="Newspapers/godur_valkostur.pdf" target="_blank">Tölvunarfræði er góður valkostur</a>, Morgunblaðið, júlí, 2003.
+</li>
 <li><a href="Newspapers/taeknigreinar.pdf" target="_blank">Nám og rannsóknir í tæknigreinum á háskólastigi</a>, Morgunblaðið, mars 2003.
+</li>
 </ol>
 
 </body>
