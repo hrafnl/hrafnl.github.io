@@ -6,7 +6,7 @@ layout: default
 
 <h2>Service</h2>
 
-<table border=1 cellspacing=0 cellpadding=3>
+<table>
 <tr><th>Period</th><th>Service</th><th>Organisation/Committee/Journal/Conference</th></tr>
 <tr><td>Spring 2023</td><td>Selection Committee member for Chair position</td><td>Department of Computer Science, Reykjavik University</td></tr>
 <tr><td>Spring 2023</td><td>Reviewer</td><td>NoDaLiDa 2023 - The 24rd Nordic Conference of Computational Linguistics,Tórshavn, Faroe Islands.</td></tr>
