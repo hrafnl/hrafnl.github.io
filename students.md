@@ -118,48 +118,33 @@ layout: default
 <h3>Committees</h3>
 
 <ol>
-  <li><span class="BibAuthor">Þórir Hrafn Harðarson</span>, M.Sc., June 2024, Reykjavik University.<br>
-  Project (30 ECTS): <a href="https://skemman.is/handle/1946/47687" target="_blank">Aligning language models to professional domains using preference training</a>. Committee member.<p>
+  <li><span class="BibAuthor">Þórir Hrafn Harðarson</span>, M.Sc., June 2024, Reykjavik University. Project (30 ECTS): <a href="https://skemman.is/handle/1946/47687" target="_blank">Aligning language models to professional domains using preference training</a>. Committee member.
   </li>
-  <li><span class="BibAuthor">Elena Ovsiannikova</span>, M.Sc., June 2024, Reykjavik University.<br>
-  Project (30 ECTS): <a href="https://skemman.is/handle/1946/47694" target="_blank">IceSpike: Investigating Spiking Neural Networks for
-Icelandic Text Classification</a>. Examiner.<p>
+  <li><span class="BibAuthor">Elena Ovsiannikova</span>, M.Sc., June 2024, Reykjavik University.<br> Project (30 ECTS): <a href="https://skemman.is/handle/1946/47694" target="_blank">IceSpike: Investigating Spiking Neural Networks for Icelandic Text Classification</a>. Examiner.
   </li>
-  <li><span class="BibAuthor">Elías Ingi Björgvinsson</span>, M.Sc., June 2022, Reykjavik University.<br>
-  Project (30 ECTS): <a href="https://skemman.is/handle/1946/42118" target="_blank">Software service oriented framework for multilingual conversational agents</a>. Examiner.<p>
+  <li><span class="BibAuthor">Elías Ingi Björgvinsson</span>, M.Sc., June 2022, Reykjavik University. Project (30 ECTS): <a href="https://skemman.is/handle/1946/42118" target="_blank">Software service oriented framework for multilingual conversational agents</a>. Examiner.
   </li>
-  <li><span class="BibAuthor">Vésteinn Snæbjarnarson</span>, M.Sc., September 2021, University of Iceland.<br>
-  Thesis (60 ECTS): <a href="https://skemman.is/handle/1946/39966" target="_blank">Automated methods for Question-Answering in Icelandic</a>. Examiner.<p>
+  <li><span class="BibAuthor">Vésteinn Snæbjarnarson</span>, M.Sc., September 2021, University of Iceland. Thesis (60 ECTS): <a href="https://skemman.is/handle/1946/39966" target="_blank">Automated methods for Question-Answering in Icelandic</a>. Examiner.
   </li>
-  <li><span class="BibAuthor">Egill Anton Hlöðversson</span>, M.Sc., January 2021, Reykjavik University.<br>
-  Thesis (60 ECTS): <a href="https://skemman.is/handle/1946/37543" target="_blank">Spoken Language Understanding for Icelandic Airline Reservation System, and Translated Corpus</a>. Examiner.<p>
+  <li><span class="BibAuthor">Egill Anton Hlöðversson</span>, M.Sc., January 2021, Reykjavik University. Thesis (60 ECTS): <a href="https://skemman.is/handle/1946/37543" target="_blank">Spoken Language Understanding for Icelandic Airline Reservation System, and Translated Corpus</a>. Examiner.
   </li>
-  <li><span class="BibAuthor">Branislav Bédi</span>, Ph.D., December 2020, University of Iceland.<br>
-  Thesis: <a href=https://opinvisindi.is/handle/20.500.11815/2142 target="_blank">Learning Icelandic in Virtual Reykjavik: Simulating real-life conversations with Embodied Conversational Agents using multimodal clarification requests</a>. Opponent.<p>
+  <li><span class="BibAuthor">Branislav Bédi</span>, Ph.D., December 2020, University of Iceland. Thesis: <a href=https://opinvisindi.is/handle/20.500.11815/2142 target="_blank">Learning Icelandic in Virtual Reykjavik: Simulating real-life conversations with Embodied Conversational Agents using multimodal clarification requests</a>. Opponent.
   </li>
-  <li><span class="BibAuthor">Guðmundur Páll Kjartansson</span>, M.Sc., January 2020, Reykjavik University.<br>
-  Project (30 ECTS): <a href="https://skemman.is/handle/1946/34940" target="_blank">Experimenting with Time and Depth Control in Chess Engines</a>. Examiner.<p>
+  <li><span class="BibAuthor">Guðmundur Páll Kjartansson</span>, M.Sc., January 2020, Reykjavik University. Project (30 ECTS): <a href="https://skemman.is/handle/1946/34940" target="_blank">Experimenting with Time and Depth Control in Chess Engines</a>. Examiner.
   </li>
-  <li><span class="BibAuthor">Julia Elisabeth Haidn</span>, M.Sc., June 2019, Reykjavik University.<br>
-  Project (30 ECTS): <a href="https://skemman.is/handle/1946/33581" target="_blank">Flight Recommender System Using Implicit Feedback</a>. Examiner.<p>
+  <li><span class="BibAuthor">Julia Elisabeth Haidn</span>, M.Sc., June 2019, Reykjavik University. Project (30 ECTS): <a href="https://skemman.is/handle/1946/33581" target="_blank">Flight Recommender System Using Implicit Feedback</a>. Examiner.
   </li>
-  <li><span class="BibAuthor">Anna Vigdís Rúnarsdóttir</span>, M.Sc., June 2018, Reykjavik University.<br>
-  Project (30 ECTS): <a href=https://skemman.is/handle/1946/31280 target="_blank">Re-Scoring Word Lattices from Automatic Speech Recognition System Based on Manual Error Corrections</a>. Examiner.<p>
+  <li><span class="BibAuthor">Anna Vigdís Rúnarsdóttir</span>, M.Sc., June 2018, Reykjavik University. Project (30 ECTS): <a href=https://skemman.is/handle/1946/31280 target="_blank">Re-Scoring Word Lattices from Automatic Speech Recognition System Based on Manual Error Corrections</a>. Examiner.
   </li>
-  <li><span class="BibAuthor">Tihomir Rangelov</span>, M.A., September 2013, University of Iceland.<br>
-  Project (30 ECTS): <a href=https://skemman.is/handle/1946/16376 target="_blank">Shallow-Transfer Rule-Based Machine Translation between Icelandic and Swedish</a>. External reviewer.<p>
+  <li><span class="BibAuthor">Tihomir Rangelov</span>, M.A., September 2013, University of Iceland. Project (30 ECTS): <a href=https://skemman.is/handle/1946/16376 target="_blank">Shallow-Transfer Rule-Based Machine Translation between Icelandic and Swedish</a>. External reviewer.
   </li>
-  <li><span class="BibAuthor">Francis Morton Tyers</span>, Ph.D., June 2013, Universitat d'Alacant.<br>
-  Thesis: <a href=https://rua.ua.es/dspace/bitstream/10045/35848/1/thesis_FrancisMTyers.pdf target="_blank">Feasible lexical selection for rule-based machine translation</a>. External reviewer.<p>
+  <li><span class="BibAuthor">Francis Morton Tyers</span>, Ph.D., June 2013, Universitat d'Alacant. Thesis: <a href=https://rua.ua.es/dspace/bitstream/10045/35848/1/thesis_FrancisMTyers.pdf target="_blank">Feasible lexical selection for rule-based machine translation</a>. External reviewer.
   </li>
-  <li><span class="BibAuthor">Yvonne Adesam</span>, Ph.D., October 2012, Stockholm University.<br>
-  Thesis: <a href=https://www.diva-portal.org/smash/get/diva2:547019/FULLTEXT01.pdf target="_blank">Multilingual Trees - Investigating High-quality Cross-lingual Parallel Corpus Processing</a>. Committee member.
+  <li><span class="BibAuthor">Yvonne Adesam</span>, Ph.D., October 2012, Stockholm University. Thesis: <a href=https://www.diva-portal.org/smash/get/diva2:547019/FULLTEXT01.pdf target="_blank">Multilingual Trees - Investigating High-quality Cross-lingual Parallel Corpus Processing</a>. Committee member.
   </li>
   <!--li><span class="BibAuthor">Anna Björk Nikulásdóttir</span>, Current Ph.D. student, University of Iceland.<p-->
-  <li><span class="BibAuthor">Jón Friðrik Daðason</span>, M.Sc., June 2012, University of Iceland.<br>
-  Thesis (60 ECTS): <a href=https://skemman.is/handle/1946/12085 target="_blank">Post-correction of Icelandic OCR text</a>. Examiner.<p>
+  <li><span class="BibAuthor">Jón Friðrik Daðason</span>, M.Sc., June 2012, University of Iceland. Thesis (60 ECTS): <a href=https://skemman.is/handle/1946/12085 target="_blank">Post-correction of Icelandic OCR text</a>. Examiner.
   </li>
-  <li><span class="BibAuthor">Valdís Sigurþórsdóttir</span>, M.Sc., June 2011, Reykjavik University.<br>
-Thesis (60 ECTS): <a href=https://en.ru.is/media/skjol-td/towardsAutomatic.pdf target="_blank">Towards Automatic Generation of Realistic Web Query Sequences</a>. Examiner.<p>
+  <li><span class="BibAuthor">Valdís Sigurþórsdóttir</span>, M.Sc., June 2011, Reykjavik University. Thesis (60 ECTS): <a href=https://en.ru.is/media/skjol-td/towardsAutomatic.pdf target="_blank">Towards Automatic Generation of Realistic Web Query Sequences</a>. Examiner.
   </li>
 </ol>
