@@ -61,5 +61,5 @@ the development of Language Technology tools for the Icelandic language.</td>
 <tr><td>Fall 2002-Spring 2004</td><td>Chairman</td><td>Board of Reykjavik University Netlab.</td>
 <tr><td>Fall 2001 - Fall 2003</td><td>Committee member</td><td>The Educational Committee of the Icelandic Association of Computer Scientists.</td>
 <tr><td>Spring 2001</td><td>Reviewer</td><td>The Icelandic Research Fund.</td>
-<tr><td>Fall 2000</td><td>Reviewer</td><td>The Icelandic Research Fund.</td>
+<tr><td>Fall 2000</td><td>Reviewer</td><td>The Icelandic Research Fund.</td></tr>
 </table>

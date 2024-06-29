@@ -10,12 +10,12 @@ layout: default
 <ol>
 <li><span class="BibAuthor">Jón Friðrik Daðason</span>.<br>Thesis: Language representation models for low-resource languages.
 <p>
-<li><span class="BibAuthor">Steinþór Steingrímsson</span>, Ph.D., June 2023. Co-supervisor: Professor <a href="https://www.computing.dcu.ie/~away/ target="_blank"">Andy Way</a>.<br>Thesis: <a href="https://opinvisindi.is/bitstream/handle/20.500.11815/4253/steinthor_phd.pdf" target="_blank">Effectively Compiling Parallel Corpora for Machine Translation in Resource-Scarce Conditions</a>.
+<li><span class="BibAuthor">Steinþór Steingrímsson</span>, Ph.D., June 2023. Co-supervisor: Professor <a href="https://www.computing.dcu.ie/~away/" target="_blank">Andy Way</a>.<br>Thesis: <a href="https://opinvisindi.is/bitstream/handle/20.500.11815/4253/steinthor_phd.pdf" target="_blank">Effectively Compiling Parallel Corpora for Machine Translation in Resource-Scarce Conditions</a>.
 <p>
 </ol>
 
 <!-- --------------------- GRADUATE STUDENTS ------------------ -->
-
+<hr>
 <h3>Graduate students - Theses/Projects</h3>
 
 <ol>
@@ -33,7 +33,7 @@ layout: default
 <p>
 <li><span class="BibAuthor">Svanhvít Lilja Ingólfsdóttir</span>, M.Sc., June 2020, Reykjavik University.<br>Thesis (60 ECTS): <a href="https://skemman.is/bitstream/1946/36562/1/MSc_thesis_svanhvit_2020_NER_online_version.pdf" target="_blank">Named Entity Recognition for Icelandic – annotated corpus and baselines</a>.
 <p>
-<li><span class="BibAuthor">Hulda Óladóttir</span>, (Co-supervisor: Professor <a href="https://uni.hi.is/eirikur/" target="_blank">Eiríkur Rögnvaldsson</a>), M.Sc., September 2016, University of Iceland.<br>Thesis (60 ECTS): <a href=https://skemman.is/handle/1946/25924 target="_blank">Upplýsingaútdráttur - Nýting upplýsingaramma til málmyndunar</a> [Information Extraction].
+<li><span class="BibAuthor">Hulda Óladóttir</span>, (Co-supervisor: Professor <a href="https://uni.hi.is/eirikur/" target="_blank">Eiríkur Rögnvaldsson</a>), M.Sc., September 2016, University of Iceland.<br>Thesis (60 ECTS): <a href="https://skemman.is/handle/1946/25924" target="_blank">Upplýsingaútdráttur - Nýting upplýsingaramma til málmyndunar</a> [Information Extraction].
 <p>
 <li><span class="BibAuthor">Karin Christiansen</span>, M.Sc., June 2014, Reykjavik University.<br>Project (30 ECTS): <a href="students/MSc_Karin_SumOfIceText_Paper.pdf" target="_blank">Summarization of Icelandic texts</a>.
 <p>
@@ -44,9 +44,10 @@ layout: default
 <li><span class="BibAuthor">Ida Kramarczyk</span>, M.Sc., June 2009, Reykjavik University.<br>Thesis (60 ECTS): <a href="http://en.ru.is/media/skjol-td/MSThesis_IdaKramarczyk.pdf" target="_blank">Improving the tagging accuracy of Icelandic text</a>.
 <p>
 <li><span class="BibAuthor">Verena Henrich and Timo Reuter</span> (co-supervision), M.Sc., March 2009, University of Applied Sciences, Darmstadt.<br>Thesis: <a href="students/MasterThesis_HenrichReuter.pdf" target="_blank">LISGrammarChecker: Language Independent Statistical Grammar Checker</a>.
+</li>
 </ol>
 
-
+<hr>
 <h3>Graduate students - Independent study</h3>
 <ol>
 <li><span class="BibAuthor">Örvar Hafsteinn Kárason</span>, Spring 2023, Reykjavik University.<br>Project: Data-driven Part-of-Speech Taggers for Icelandic: Comparison and Error Analysis.
@@ -58,9 +59,10 @@ layout: default
 <li><span class="BibAuthor">Andreas Völlger</span> (exchange student), Fall 2010, University of Applied Sciences, Darmstadt.<br>Project: <a href="students/IndependentStudy_Spejd.pdf" target="_blank">Tagging and parsing German using Spejd</a>.
 <p>
 <li><span class="BibAuthor">Timo Reuter and Verena Henrich</span> (exchange students), Fall 2008, University of Applied Sciences, Darmstadt.<br>Project: <a href="http://www.ru.is/faculty/hrafn/papers/ctagger.pdf" target="_blank">CombiTagger: A system for developing combined taggers</a>.
+</li>
 </ol>
 
-
+<hr>
 <h3>Undergraduate students - Research theses / Final projects</h3>
 <ol>
 <li><span class="BibAuthor">Ólafur Aron Jóhannsson, Birkir Arndal, and Eysteinn Örn Jónsson</span>, B.Sc., January 2024, Reykjavik University.<br>Project: Evaluating Icelandic Sentiment Analysis Models Trained on Translated Data.
@@ -78,9 +80,10 @@ layout: default
 <li><span class="BibAuthor">Kristjana Guðjónsdóttir</span>, B.Sc., January 2009, Reykjavik University.<br>Thesis: <a href="students/BScThesis_Prototype_Icelandic_GrammarChecker.pdf" target="_blank">A Prototype of an Icelandic Grammar Checker</a>.
 <p>
 <li><span class="BibAuthor">Frank A. B. Cassata</span>, B.Sc., June 2007, Reykjavik University.<br>Thesis: <a href="students/BScThesis_AutomaticThesaurus.pdf" target="_blank">Automatic thesaurus extraction for Icelandic</a>.
+</li>
 </ol>
 
-
+<hr>
 <h3>Undergraduate students - Independent Study / Research Opportunity</h3>
 <ol>
 <li><span class="BibAuthor">Ólafur P. Geirsson, Guðmundur Harðarson, Guðmundur Þ. Guðmundsson</span>, Spring 2014, Reykjavik University.<br>Project: <a href="students/BScThesis_Ordspor.pdf" target="_blank">Orðspor: Labeling named entities with computer games</a>.
@@ -90,9 +93,10 @@ layout: default
 <li><span class="BibAuthor">Ólafur Waage</span>, Fall 2011, Reykjavik University.<br>Project: <a href="students/IndependentStudy_ApertiumIceNLP.pdf" target="_blank">Continued development of Apertium-IceNLP: A rule-based Icelandic to English machine translation system</a>.
 <p>
 <li><span class="BibAuthor">Jökull H. Yngvason</span>, Fall 2009, Reykjavik University.<br>Project: <a href="students/IndependentStudy_VFRAME-Skyrsla.pdf" target="_blank">Automatic extraction of verb subcategorization frames for Icelandic</a> (only in Icelandic).
+</li>
 </ol>
 
-
+<hr>
 <h3>Undergraduate/gradudate students - The Icelandic Sudent Innovation Fund</h3>
 <ol>
 <!--li><span class="BibAuthor">Njáll Skarphéðinsson, Eysteinn Örn Jónsson, and Logi Sigurðarson</span>, Summer 2023, Reykjavik University.<br>Project: <a href="students/NSN_RUQuAD_standardized.pdf" target="_blank">Spanning the Gap: Boosting Question-Answering by Standardizing Answer Spans</a>.
@@ -111,7 +115,7 @@ layout: default
 
 <!-- --------------------- COMMITTEES ------------------ -->
 
-<h3>Committees</h2>
+<h3>Committees</h3>
 
 <ol>
   <li><span class="BibAuthor">Elías Ingi Björgvinsson</span>, M.Sc., June 2022, Reykjavik University.<br>
@@ -150,4 +154,5 @@ layout: default
   <p>
   <li><span class="BibAuthor">Valdís Sigurþórsdóttir</span>, M.Sc., June 2011, Reykjavik University.<br>
 Thesis (60 ECTS): <a href=https://en.ru.is/media/skjol-td/towardsAutomatic.pdf target="_blank">Towards Automatic Generation of Realistic Web Query Sequences</a>. Examiner.<p>
+  </li>
 </ol>
