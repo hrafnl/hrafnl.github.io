@@ -17,7 +17,6 @@ Appeared in a revised form, subsequent to editorial input by Cambridge Universit
 <p>
 <li><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2006. <a target="_blank" href="papers/combi_short3_LRE.pdf">Tagging Icelandic text: An experiment with integrations and combinations of taggers</a>.
 <i>Language Resources and Evaluation</i>, <b>40(2)</b>: 175-181. The original publication is available at <a href="https://link.springer.com/article/10.1007/s10579-006-9013-5" target="_blank">www.springerlink.com</a>.
-</p>
 </li>
 </ol>
 
