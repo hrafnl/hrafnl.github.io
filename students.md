@@ -128,7 +128,7 @@ layout: default
   </li>
   <li><span class="BibAuthor">Egill Anton Hlöðversson</span>, M.Sc., January 2021, Reykjavik University. Thesis (60 ECTS): <a href="https://skemman.is/handle/1946/37543" target="_blank">Spoken Language Understanding for Icelandic Airline Reservation System, and Translated Corpus</a>. Examiner.
   </li>
-  <li><span class="BibAuthor">Branislav Bédi</span>, Ph.D., December 2020, University of Iceland. Thesis: <a href=https://opinvisindi.is/handle/20.500.11815/2142 target="_blank">Learning Icelandic in Virtual Reykjavik: Simulating real-life conversations with Embodied Conversational Agents using multimodal clarification requests</a>. Opponent.
+  <li><span class="BibAuthor">Branislav Bédi</span>, Ph.D., December 2020, University of Iceland. Thesis: <a href="https://opinvisindi.is/handle/20.500.11815/2142" target="_blank">Learning Icelandic in Virtual Reykjavik: Simulating real-life conversations with Embodied Conversational Agents using multimodal clarification requests</a>. Opponent.
   </li>
   <li><span class="BibAuthor">Guðmundur Páll Kjartansson</span>, M.Sc., January 2020, Reykjavik University. Project (30 ECTS): <a href="https://skemman.is/handle/1946/34940" target="_blank">Experimenting with Time and Depth Control in Chess Engines</a>. Examiner.
   </li>
