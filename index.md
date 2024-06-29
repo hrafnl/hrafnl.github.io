@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<b>Position</b>: Associate Professor, <a href="http://en.ru.is/CS/" target="_blank">Department of Computer Science</a>, <a href="http://en.ru.is/" target="_blank">Reykjavík University</a>.
+<b>Position</b>: Associate Professor, <a href="http://en.ru.is/CS/" target="_blank">Department of Computer Science</a>, <a href="http://en.ru.is/" target="_blank">Reykjavik University</a>.
 <p>
 <b>Research interests</b>: My main research field is Natural Language Processing (NLP). I have published (see <a href="https://scholar.google.is/citations?user=QwLbmpUAAAAJ&hl=en" target="_blank">Google Scholar</a>) methods and tools for morphological
 analysis, part-of-speech tagging, named entity recognition, parsing, machine translation, corpus construction,
