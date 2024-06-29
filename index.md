@@ -2,27 +2,15 @@
 layout: default
 ---
 
-Welcome to the 23<sup>rd</sup> Nordic Conference on Computational Linguistics (NoDaLiDa 2021), held from May 31<sup>st</sup> to June 2<sup>nd</sup>, 2021. The conference is a two-day event with one additional day of workshops. <!--The conference takes place at <a href="http://www.ru.is">Reykjavik University</a> and is hosted by <a href="http://www.ru.is">Almannarómur</a>. We are closely monitoring the ongoing pandemic and will update the conference plans (e.g. moving to a virtual or hybrid format) as needed closer to the conference dates.-->
-While we were planning to hold the conference in Reykjavik (Iceland), due to the current COVID situation the conference will be held entirely online.
+<b>Position</b>: Associate Professor, <a href="http://en.ru.is/CS/" target="_blank">Department of Computer Science</a>, <a href="http://en.ru.is/" target="_blank">Reykjavík University</a>.
+<p>
+<b>Research interests</b>: My main research field is Natural Language Processing (NLP). I have published (see <a href="https://scholar.google.is/citations?user=QwLbmpUAAAAJ&hl=en" target="_blank">Google Scholar</a>) methods and tools for morphological
+analysis, part-of-speech tagging, named entity recognition, parsing, machine translation, corpus construction,
+intelligent computer-assisted language learning, question-answering, and clinical NLP.
+<p>
+I have also published research in the field of Computer Science Education, in particular about teaching programming.
+<p>
 
-<!-- Box 
-<div class="box" markdown="1">
-  <p><b>LATEST NEWS</b></p>
-  <p><b>October 2</b> Next NoDaLiDa will be in 2021 in Reykjavík, Iceland</p>
-  <p><b>October 1</b> Proceedings now in the <a href="https://aclweb.org/anthology/volumes/W19-61/">ACL anthology</a> </p>
-</div>
--->
-
-## Important dates <a id="dates"></a>
-
-<div class="table-wrapper">
-  <table>
-    <tbody>
-      <tr><td>Submission - main conference</td> <td>February 8, 2021, midnight (anywhere on earth)</td></tr>
-      <tr><td>Notification - main conference</td> <td>March 22, 2021</td></tr>
-      <tr><td>Camera-Ready Manuscripts</td> <td>April 12, 2021</td></tr>
-      <tr><td>Pre-Conference Workshops</td> <td>May 31, 2021</td></tr>
-      <tr><td>Main conference</td> <td>June 1-2, 2021</td></tr>
-    </tbody>
-  </table>
-</div>
+<b>Education</b>: I completed a B.Sc. degree in Computer Science from the <a href="http://www.english.hi.is/" target="_blank">University of Iceland<a> in 1989 and an M.Sc. in Computer Science and Operations Research from <a href="http://www.psu.edu/" target="_blank">Pennsylvania State University<a>, USA, in 1992.
+I joined Reykjavik University in 2000 after having spent about 8 years working for trading firms and investment banks in the USA, England and Iceland.
+In 2007, I completed my Ph.D. in Computer Science (NLP) from the <a href="http://nlp.shef.ac.uk/" target="_blank">University of Sheffield</a>, England.
