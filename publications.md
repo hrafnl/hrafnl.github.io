@@ -18,14 +18,20 @@ Appeared in a revised form, subsequent to editorial input by Cambridge Universit
 <li><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2006. <a target="_blank" href="papers/combi_short3_LRE.pdf">Tagging Icelandic text: An experiment with integrations and combinations of taggers</a>.
 <i>Language Resources and Evaluation</i>, <b>40(2)</b>: 175-181. The original publication is available at <a href="https://link.springer.com/article/10.1007/s10579-006-9013-5" target="_blank">www.springerlink.com</a>.
 </p>
+</li>
 </ol>
+
 
 <hr>
 <h3>Conference and workshop papers </h3>
 <ol>
-  <li><span class="BibAuthor">Magnús F. Helgason, Kári S. Hlífarson, Baldur Olsen, Steindór O. Ellertsson, <b>Hrafn Loftsson</b>, and Stefán Ólafsson</span>. 2024. The Development and Feasibility of a Triage System for Use in Primary Care. In <i>Proceedings of the 12th IEEE International Conference on Healthcare Informatics. Florida, USA.
+  <li><span class="BibAuthor">Magnús F. Helgason, Kári S. Hlífarson, Baldur Olsen, Steindór O. Ellertsson, <b>Hrafn Loftsson</b>, and Stefán Ólafsson</span>. 2024. The Development and Feasibility of a Triage System for Use in Primary Care. In <i>Proceedings of the 12th IEEE International Conference on Healthcare Informatics</i>. Florida, USA.
   <p>
-  <li><span class="BibAuthor">Ólafur A. Jóhannsson, Birkir H. Arndal, Eysteinn Ö. Jónsson, Stefán Ólafsson, and <b>Hrafn Loftsson</b></span>. 2024. <a herf=" " target="_blank">Evaluating Icelandic Sentiment Analysis Models Trained on Translated Data</a>. In <i>Proceedings of the 3rd Annual Meeting of the Special Interest Group on Under-resourced Languages @ LREC-COLING 2024. Torino, Italy.
+  <li><span class="BibAuthor">Ólafur A. Jóhannsson, Birkir H. Arndal, Eysteinn Ö. Jónsson, Stefán Ólafsson, and <b>Hrafn Loftsson</b></span>. 2024. <a href="https://aclanthology.org/2024.sigul-1.11.pdf" target="_blank">Evaluating Icelandic Sentiment Analysis Models Trained on Translated Data</a>. In <i>Proceedings of the 3rd Annual Meeting of the Special Interest Group on Under-resourced Languages @ LREC-COLING 2024</i>. Torino, Italy.
+  <p>
+  <li><span class="BibAuthor">Jón F. Daðason and <b>Hrafn Loftsson</b></span>. 2024. <a href="https://aclanthology.org/2024.sigul-1.46/" target="_blank">Unsupervised Outlier Detection for Language-Independent Text Quality Filtering</a>. In <i>Proceedings of the 3rd Annual Meeting of the Special Interest Group on Under-resourced Languages @ LREC-COLING 2024</i>. Torino, Italy.
+  <p>
+  <li><span class="BibAuthor">Jón F. Daðason and <b>Hrafn Loftsson</b></span>. 2024. <a href="https://aclanthology.org/2024.lrec-main.1372.pdf" target="_blank">Text Filtering Classifiers for Medium-Resource Languages.</a>. In <i>Proceedings of the Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC- COLING 2024)</i>. Torino, Italy.
   <p>
   <li><span class="BibAuthor">Steinþór Steingrímsson, <b>Hrafn Loftsson</b>, and Andy Way</span>. 2023. <a href="https://aclanthology.org/2023.emnlp-demo.22/" target="_blank">SentAlign: Accurate and Scalable Sentence Alignment</a>. In <i>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstrations</i>. Singapore.
   <p>
@@ -156,6 +162,7 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
 <li><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2006. <a target="_blank" href="https://dl.acm.org/doi/10.1007/11816508_64">Tagging a morphologically complex language using heuristics</a>.  In T. Salakoski, F. Ginter, S. Pyysalo and T. Pahikkala (eds.),
 <i>Advances in Natural Language Processing, 5th International Conference on NLP, FinTAL 2006, Proceedings</i>.  Turku, Finland.
 </p>
+</li>
 </ol>
 
 <hr>
@@ -168,6 +175,7 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
   <li><span class="BibAuthor">Anna Björk Nikulásdóttir, Þórunn Arnardóttir, Jón Guðnason, Þorsteinn Daði Gunnarsson, Anton Karl Ingason, Haukur Páll Jónsson, <b>Hrafn Loftsson</b>, Hulda Óladóttir, Einar Freyr Sigurðsson, Atli Þór Sigurgeirsson, Vésteinn Snæbjarnarson and Steinþór Steingrímsson</span>. 2021. <a href="papers/buffet.pdf" target="_blank">Help Yourself from the Buffet: National Language Technology Infrastructure Initiative on CLARIN-IS</a>. In <i>Proceedings of the CLARIN Annual Conference</i>. Online.
   <p>
   <li><span class="BibAuthor">Elizabeth S. Adams, Orit Hazzan, <b>Hrafn Loftsson</b> and Alison Young</span>. 2003. <a target="_blank" href="https://dl.acm.org/doi/10.1145/611892.611897">International perspective of women and computer science</a>.  In <i>Proceedings of the 34th SIGCSE technical symposium on Computer science education, SigCSE '03</i>.  Reno, Nevada, USA.
+  </li>
 </ol>
 
 <hr>
@@ -175,8 +183,9 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
 <ol>
 <li><span class="BibAuthor"><b>Hrafn Loftsson</b>, Eiríkur Rögnvaldsson and Sigrún Helgadóttir</span> (eds). 2010. Advances in Natural Language Processing.
 7th International Conference on NLP, IceTAL 2010, Reykjavik, Iceland, August 2010, Proceedings. © 2010 Springer.
-</ol>
 </li>
+</ol>
+
 
 <hr>
 <h3>Technical reports </h3>
@@ -186,8 +195,9 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
 <!-- <p>Loftsson, H. (2006)
 <a href="http://www.dcs.shef.ac.uk/intranet/research/resmes/CS0604.pdf">Tagging Icelandic text: A linguistic rule-based approach.</a> Technical Report CS-06-04, Department of Computer Science, University of Sheffield.
 </p> -->
-</ol>
 </li>
+</ol>
+
 
 <hr>
 <h3>PhD thesis</h3>
