@@ -1,10 +1,9 @@
 ---
 layout: default
 ---
-<img src="images/Hrafn_Loftsson.jpg" alt="" align="left" border="0" height="90"
+<img src="images/Hrafn_Loftsson.jpg" alt="" align="left" border="0" height="90">
 <a href="http://en.ru.is/" target="_blank"><img src="images/RU_logo.png" align="right" alt="Reykjavik University" border="0"></a>
 
-		
 <b>Position</b>: Associate Professor, <a href="http://en.ru.is/CS/" target="_blank">Department of Computer Science</a>, <a href="http://en.ru.is/" target="_blank">Reykjavik University</a>.
 <p>
 <b>Research interests</b>: My main research field is Natural Language Processing (NLP). I have published (see <a href="https://scholar.google.is/citations?user=QwLbmpUAAAAJ&hl=en" target="_blank">Google Scholar</a>) methods and tools for morphological
