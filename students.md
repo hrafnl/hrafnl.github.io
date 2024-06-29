@@ -14,9 +14,24 @@ layout: default
 </li>
 </ol>
 
+<h3>Ph.D. committees</h3>
+<ol>
+  <li><span class="BibAuthor">Steinunn Rut Friðriksdóttir</span>, Ph.D., University of Iceland. Comittee member.
+  </li>
+  <li><span class="BibAuthor">Steindór Oddur Ellertsson</span>, Ph.D., University of Iceland. Comittee member.
+  </li>
+  <li><span class="BibAuthor">Branislav Bédi</span>, Ph.D., December 2020, University of Iceland. Thesis: <a href="https://opinvisindi.is/handle/20.500.11815/2142" target="_blank">Learning Icelandic in Virtual Reykjavik: Simulating real-life conversations with Embodied Conversational Agents using multimodal clarification requests</a>. Opponent.
+  </li>
+  <li><span class="BibAuthor">Francis Morton Tyers</span>, Ph.D., June 2013, Universitat d'Alacant. Thesis: <a href="https://rua.ua.es/dspace/bitstream/10045/35848/1/thesis_FrancisMTyers.pdf" target="_blank">Feasible lexical selection for rule-based machine translation</a>. External reviewer.
+  </li>
+  <li><span class="BibAuthor">Yvonne Adesam</span>, Ph.D., October 2012, Stockholm University. Thesis: <a href="https://www.diva-portal.org/smash/get/diva2:547019/FULLTEXT01.pdf" target="_blank">Multilingual Trees - Investigating High-quality Cross-lingual Parallel Corpus Processing</a>. Committee member.
+  </li>  
+</ol>
+
+
 <!-- --------------------- GRADUATE STUDENTS ------------------ -->
 <hr>
-<h3>Graduate students - Theses/Projects</h3>
+<h3>Msc students - Theses/Projects</h3>
 <ol>
   <li><span class="BibAuthor">Örvar Hafsteinn Kárason</span>, M.Sc., June 2023, Reykjavik University.<br>Project (30 ECTS). <a href="https://skemman.is/bitstream/1946/44617/1/Data-driven%20Part-of-Speech%20Taggers%20for%20Icelandic.pdf" target="_blank">Data-driven Part-of-Speech Taggers for Icelandic: Comparison and Error Analysis</a>.
   </li>
@@ -47,7 +62,7 @@ layout: default
 </ol>
 
 <hr>
-<h3>Graduate students - Independent study</h3>
+<h3>MSc students - Independent study</h3>
 <ol>
   <li><span class="BibAuthor">Örvar Hafsteinn Kárason</span>, Spring 2023, Reykjavik University.<br>Project: Data-driven Part-of-Speech Taggers for Icelandic: Comparison and Error Analysis.
   </li>
@@ -98,8 +113,8 @@ layout: default
 <hr>
 <h3>Undergraduate/gradudate students - The Icelandic Sudent Innovation Fund</h3>
 <ol>
-  <!--li><span class="BibAuthor">Njáll Skarphéðinsson, Eysteinn Örn Jónsson, and Logi Sigurðarson</span>, Summer 2023, Reykjavik University.<br>Project: <a href="students/NSN_RUQuAD_standardized.pdf" target="_blank">Spanning the Gap: Boosting Question-Answering by Standardizing Answer Spans</a>.
-  <p-->
+  <li><span class="BibAuthor">Njáll Skarphéðinsson, Eysteinn Örn Jónsson, and Logi Sigurðarson</span>, Summer 2023, Reykjavik University.<br>Project: <a href="students/NSN_RUQuAD_standardized.pdf" target="_blank">Spanning the Gap: Boosting Question-Answering by Standardizing Answer Spans</a>.
+  </li>
   <li><span class="BibAuthor">Gunnar Pálsson</span>, Summer 2020, Reykjavik University.<br>Project: <a href="students/Rannsoknarskyrsla_rod_lysingarorda.pdf" target="_blank">Pre-Nominal Adjective Order in Icelandic</a>.
   </li>
   <li><span class="BibAuthor">Ólafur Páll Geirsson</span>, Summer 2013, Reykjavik University.<br>Project: <a href="students/IceQA.pdf" target="_blank">An Open-Source Language-Independent Question-Answering System</a>.
@@ -115,7 +130,7 @@ layout: default
 
 <!-- --------------------- COMMITTEES ------------------ -->
 
-<h3>Committees</h3>
+<h3>MSc Committees</h3>
 
 <ol>
   <li><span class="BibAuthor">Þórir Hrafn Harðarson</span>, M.Sc., June 2024, Reykjavik University. Project (30 ECTS): <a href="https://skemman.is/handle/1946/47687" target="_blank">Aligning language models to professional domains using preference training</a>. Committee member.
@@ -128,8 +143,6 @@ layout: default
   </li>
   <li><span class="BibAuthor">Egill Anton Hlöðversson</span>, M.Sc., January 2021, Reykjavik University. Thesis (60 ECTS): <a href="https://skemman.is/handle/1946/37543" target="_blank">Spoken Language Understanding for Icelandic Airline Reservation System, and Translated Corpus</a>. Examiner.
   </li>
-  <li><span class="BibAuthor">Branislav Bédi</span>, Ph.D., December 2020, University of Iceland. Thesis: <a href="https://opinvisindi.is/handle/20.500.11815/2142" target="_blank">Learning Icelandic in Virtual Reykjavik: Simulating real-life conversations with Embodied Conversational Agents using multimodal clarification requests</a>. Opponent.
-  </li>
   <li><span class="BibAuthor">Guðmundur Páll Kjartansson</span>, M.Sc., January 2020, Reykjavik University. Project (30 ECTS): <a href="https://skemman.is/handle/1946/34940" target="_blank">Experimenting with Time and Depth Control in Chess Engines</a>. Examiner.
   </li>
   <li><span class="BibAuthor">Julia Elisabeth Haidn</span>, M.Sc., June 2019, Reykjavik University. Project (30 ECTS): <a href="https://skemman.is/handle/1946/33581" target="_blank">Flight Recommender System Using Implicit Feedback</a>. Examiner.
@@ -137,10 +150,6 @@ layout: default
   <li><span class="BibAuthor">Anna Vigdís Rúnarsdóttir</span>, M.Sc., June 2018, Reykjavik University. Project (30 ECTS): <a href="https://skemman.is/handle/1946/31280" target="_blank">Re-Scoring Word Lattices from Automatic Speech Recognition System Based on Manual Error Corrections</a>. Examiner.
   </li>
   <li><span class="BibAuthor">Tihomir Rangelov</span>, M.A., September 2013, University of Iceland. Project (30 ECTS): <a href="https://skemman.is/handle/1946/16376" target="_blank">Shallow-Transfer Rule-Based Machine Translation between Icelandic and Swedish</a>. External reviewer.
-  </li>
-  <li><span class="BibAuthor">Francis Morton Tyers</span>, Ph.D., June 2013, Universitat d'Alacant. Thesis: <a href="https://rua.ua.es/dspace/bitstream/10045/35848/1/thesis_FrancisMTyers.pdf" target="_blank">Feasible lexical selection for rule-based machine translation</a>. External reviewer.
-  </li>
-  <li><span class="BibAuthor">Yvonne Adesam</span>, Ph.D., October 2012, Stockholm University. Thesis: <a href="https://www.diva-portal.org/smash/get/diva2:547019/FULLTEXT01.pdf" target="_blank">Multilingual Trees - Investigating High-quality Cross-lingual Parallel Corpus Processing</a>. Committee member.
   </li>
   <!--li><span class="BibAuthor">Anna Björk Nikulásdóttir</span>, Current Ph.D. student, University of Iceland.<p-->
   <li><span class="BibAuthor">Jón Friðrik Daðason</span>, M.Sc., June 2012, University of Iceland. Thesis (60 ECTS): <a href="https://skemman.is/handle/1946/12085" target="_blank">Post-correction of Icelandic OCR text</a>. Examiner.
