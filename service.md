@@ -8,14 +8,14 @@ layout: default
 
 <table border=1 cellspacing=0 cellpadding=3>
 <tr><th>Period</th><th>Service</th><th>Organisation/Committee/Journal/Conference</th></tr>
-<tr><td>Spring 2023</td><td>Selection Committee member for Chair position</td><td>Department of Computer Science, Reykjavik University</td>
+<tr><td>Spring 2023</td><td>Selection Committee member for Chair position</td><td>Department of Computer Science, Reykjavik University</td></tr>
 <tr><td>Spring 2023</td><td>Reviewer</td><td>NoDaLiDa 2023 - The 24rd Nordic Conference of Computational Linguistics,Tórshavn, Faroe Islands.</td></tr>
-<tr><td>Summer 2022</td><td>Reviewer</td><td>The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)</td>
+<tr><td>Summer 2022</td><td>Reviewer</td><td>The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)</td></tr>
 <tr><td>Spring 2022</td><td>Reviewer</td><td>Nordic Journal of STEM Education</td></tr>
 <tr><td>2021-2022</td><td>Selection Committee member</td><td>Department of Computer Science, Reykjavik University</td></tr>
 <tr><td>2020-2021</td><td>Local Chair and Reviewer</td><td>NoDaLiDa 2021 - The 23rd Nordic Conference of Computational Linguistics, Reykjavik, Iceland.</td></tr>
 <tr><td>Spring 2020</td><td>Reviewer</td><td>CDIO 2020 - The 16th CDIO International Conference</td></tr>
-<tr><td>2020-</td><td>Member of Undergraduate Studies Council</td><td>Department of Computer Science, Reykjavik University</td>
+<tr><td>2020-</td><td>Member of Undergraduate Studies Council</td><td>Department of Computer Science, Reykjavik University</td></tr>
 <tr><td>2019-2020</td><td>Selection Committee member</td><td>Department of Computer Science, Reykjavik University</td></tr>
 <tr><td>2019-2020</td><td>Committee member of an advisory group for "Career paths and promotions for teachers"</td><td>School of Technology, Reykjavik University</td></tr>
 <tr><td>2019-</td><td>Ethical Committee member</td><td>Reykjavik University.</td></tr>
