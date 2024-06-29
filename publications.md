@@ -8,16 +8,13 @@ layout: default
 <ol>
   <li><span class="BibAuthor">Steindór O. Ellertsson, Hlynur D. Hlynsson, <b>Hrafn Loftsson</b>, and Emil L. Sigurðsson</span>. 2023. <a href="https://www.annfammed.org/content/annalsfm/21/3/240.full.pdf" target="_blank">Can triaging patients with respiratory symptoms in primary care using artificial intelligence improve patient outcomes? A retrospective diagnostic accuracy study</a>.
   <i>Annals of Family Medicine</i>, <b>21(3)</b>: 240-248.
-  <p>
-<li><span class="BibAuthor">Steindór O. Ellertsson, <b>Hrafn Loftsson</b> and Emil L. Sigurðsson</span>. 2021. <a href="https://www.tandfonline.com/doi/full/10.1080/02813432.2021.1973255" target="_blank">Artificial intelligence in the GPs office: A retrospective study on diagnostic accuracy</a>.
-<i>Scandinavian Journal of Primary Health Care</i>, <b>39(4)</b>: 448-458. <br> DOI: 10.1080/02813432.2021.1973255.
-<p>
-<li><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2008. <a target="_blank" href="papers/IceTagger_final.pdf">Tagging Icelandic text: A linguistic rule-based approach</a>.
-Appeared in a revised form, subsequent to editorial input by Cambridge University Press, in <i>Nordic Journal of Linguistics</i>, <b>31(1)</b>: 47-72. © 2008 Cambridge University Press.
-<p>
-<li><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2006. <a target="_blank" href="papers/combi_short3_LRE.pdf">Tagging Icelandic text: An experiment with integrations and combinations of taggers</a>.
-<i>Language Resources and Evaluation</i>, <b>40(2)</b>: 175-181. The original publication is available at <a href="https://link.springer.com/article/10.1007/s10579-006-9013-5" target="_blank">www.springerlink.com</a>.
-</li>
+  </li>
+  <li><span class="BibAuthor">Steindór O. Ellertsson, <b>Hrafn Loftsson</b> and Emil L. Sigurðsson</span>. 2021. <a href="https://www.tandfonline.com/doi/full/10.1080/02813432.2021.1973255" target="_blank">Artificial intelligence in the GPs office: A retrospective study on diagnostic accuracy</a>.<i>Scandinavian Journal of Primary Health Care</i>, <b>39(4)</b>: 448-458. <br> DOI: 10.1080/02813432.2021.1973255.
+  </li>
+  <li><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2008. <a target="_blank" href="papers/IceTagger_final.pdf">Tagging Icelandic text: A linguistic rule-based approach</a>. Appeared in a revised form, subsequent to editorial input by Cambridge University Press, in <i>Nordic Journal of Linguistics</i>, <b>31(1)</b>: 47-72. © 2008 Cambridge University Press.
+  </li>
+  <li><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2006. <a target="_blank" href="papers/combi_short3_LRE.pdf">Tagging Icelandic text: An experiment with integrations and combinations of taggers</a>. <i>Language Resources and Evaluation</i>, <b>40(2)</b>: 175-181. The original publication is available at <a href="https://link.springer.com/article/10.1007/s10579-006-9013-5" target="_blank">www.springerlink.com</a>.
+  </li>
 </ol>
 
 
