@@ -25,3 +25,6 @@ In 2007, I completed my Ph.D. in Computer Science (NLP) from the <a href="http:/
 
 <p>
 In the period September 2013 - February 2018, I also worked at the software development company <a href="http://www.kolibri.is" target="_blank">Kolibri</a>.
+
+<p>
+I am a co-founder of the company <a href="https://careflux.ai/" target="_blank">Careflux</a>.
