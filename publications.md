@@ -1,4 +1,7 @@
-<html>
+---
+layout: default
+---
+
 <body>
 
 <h3>Journal papers</h3>
@@ -212,4 +215,4 @@ In <i>Proceedings of Human Language Technologies 2007: The Conference of the Nor
 </ol>
 
 </body>
-</html>
+
