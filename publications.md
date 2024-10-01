@@ -13,7 +13,7 @@ layout: default
   </li>
   <li><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2008. <a target="_blank" href="papers/IceTagger_final.pdf">Tagging Icelandic text: A linguistic rule-based approach</a>. Appeared in a revised form, subsequent to editorial input by Cambridge University Press, in <i>Nordic Journal of Linguistics</i>, <b>31(1)</b>: 47-72. © 2008 Cambridge University Press.
   </li>
-  <li><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2006. <a target="_blank" href="papers/combi_short3_LRE.pdf">Tagging Icelandic text: An experiment with integrations and combinations of taggers</a>. <i>Language Resources and Evaluation</i>, <b>40(2)</b>: 175-181. The original publication is available at <a href="https://link.springer.com/article/10.1007/s10579-006-9013-5" target="_blank">www.springerlink.com</a>.
+  <li><span class="BibAuthor"><b>Hrafn Loftsson</b></span>. 2006. <a target="_blank" href="papers/combi_short3_LRE.pdf">Tagging Icelandic text: An experiment with integrations and combinations of taggers</a>. <i>Language Resources and Evaluation</i>, <b>40(2)</b>: 175-181. The published version is available <a href="https://link.springer.com/article/10.1007/s10579-006-9013-5" target="_blank">here</a>.
   </li>
 </ol>
 
@@ -21,7 +21,7 @@ layout: default
 <hr>
 <h3>Conference and workshop papers </h3>
 <ol>
-  <li><span class="BibAuthor">Magnús F. Helgason, Kári S. Hlífarson, Baldur Olsen, Steindór O. Ellertsson, <b>Hrafn Loftsson</b>, and Stefán Ólafsson</span>. 2024. The Development and Feasibility of a Triage System for Use in Primary Care. In <i>Proceedings of the 12th IEEE International Conference on Healthcare Informatics</i>. Florida, USA.
+  <li><span class="BibAuthor">Magnús F. Helgason, Kári S. Hlífarson, Baldur Olsen, Steindór O. Ellertsson, <b>Hrafn Loftsson</b>, and Stefán Ólafsson</span>. 2024. <a href="papers/System_for_healthcare.pdf" target="_blank">The Development and Feasibility of a Triage System for Use in Primary Care</a>. In <i>Proceedings of the 12th IEEE International Conference on Healthcare Informatics</i>. Florida, USA. The published version is available <a href="https://ieeexplore.ieee.org/document/10628678" target="_blank">here</a>.
   </li>
   <li><span class="BibAuthor">Ólafur A. Jóhannsson, Birkir H. Arndal, Eysteinn Ö. Jónsson, Stefán Ólafsson, and <b>Hrafn Loftsson</b></span>. 2024. <a href="https://aclanthology.org/2024.sigul-1.11.pdf" target="_blank">Evaluating Icelandic Sentiment Analysis Models Trained on Translated Data</a>. In <i>Proceedings of the 3rd Annual Meeting of the Special Interest Group on Under-resourced Languages @ LREC-COLING 2024</i>. Torino, Italy.
   </li>
