@@ -20,8 +20,6 @@ layout: default
 <ol>
   <li><span class="BibAuthor">Steinunn Rut Friðriksdóttir</span>, Ph.D., University of Iceland. Comittee member.
   </li>
-  <li><span class="BibAuthor">Steindór Oddur Ellertsson</span>, Ph.D., University of Iceland. Comittee member.
-  </li>
   <li><span class="BibAuthor">Branislav Bédi</span>, Ph.D., December 2020, University of Iceland. Thesis: <a href="https://opinvisindi.is/handle/20.500.11815/2142" target="_blank">Learning Icelandic in Virtual Reykjavik: Simulating real-life conversations with Embodied Conversational Agents using multimodal clarification requests</a>. Opponent.
   </li>
   <li><span class="BibAuthor">Francis Morton Tyers</span>, Ph.D., June 2013, Universitat d'Alacant. Thesis: <a href="https://rua.ua.es/dspace/bitstream/10045/35848/1/thesis_FrancisMTyers.pdf" target="_blank">Feasible lexical selection for rule-based machine translation</a>. External reviewer.
