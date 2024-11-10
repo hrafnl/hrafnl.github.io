@@ -12,7 +12,7 @@ layout: default
 </li>
 <li><span class="BibAuthor">Jón Friðrik Daðason</span>. Thesis: Language representation models for low-resource languages.
 </li>
-<li><span class="BibAuthor">Steinþór Steingrímsson</span>, Ph.D., June 2023. Co-supervisor: <a href="https://www.computing.dcu.ie/~away/" target="_blank">Andy Way</a>. Thesis: <a href="https://opinvisindi.is/bitstream/handle/20.500.11815/4253/steinthor_phd.pdf" target="_blank">Effectively Compiling Parallel Corpora for Machine Translation in Resource-Scarce Conditions</a>.
+<li><span class="BibAuthor">Steinþór Steingrímsson</span>, Ph.D., June 2023. Thesis: <a href="https://opinvisindi.is/bitstream/handle/20.500.11815/4253/steinthor_phd.pdf" target="_blank">Effectively Compiling Parallel Corpora for Machine Translation in Resource-Scarce Conditions</a>. Co-supervisor: <a href="https://www.computing.dcu.ie/~away/" target="_blank">Andy Way</a>. 
 </li>
 </ol>
 
