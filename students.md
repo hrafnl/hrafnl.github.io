@@ -8,9 +8,11 @@ layout: default
 
 <h3>Ph.D. students</h3>
 <ol>
+<li><span class="BibAuthor">Steindór Oddur Ellertsson</span>. Thesis: The use of machine learning models for diagnostic and outcome prediction in primary care. Supervisor: <a href="https://iris.rais.is/is/persons/emil-l%C3%A1rus-sigur%C3%B0sson" target="_blank">Emil Lárus Sigurðsson</a>.  Co-supervisor: Hrafn Loftsson.
+</li>
 <li><span class="BibAuthor">Jón Friðrik Daðason</span>. Thesis: Language representation models for low-resource languages.
 </li>
-<li><span class="BibAuthor">Steinþór Steingrímsson</span>, Ph.D., June 2023. Co-supervisor: Professor <a href="https://www.computing.dcu.ie/~away/" target="_blank">Andy Way</a>. Thesis: <a href="https://opinvisindi.is/bitstream/handle/20.500.11815/4253/steinthor_phd.pdf" target="_blank">Effectively Compiling Parallel Corpora for Machine Translation in Resource-Scarce Conditions</a>.
+<li><span class="BibAuthor">Steinþór Steingrímsson</span>, Ph.D., June 2023. Co-supervisor: <a href="https://www.computing.dcu.ie/~away/" target="_blank">Andy Way</a>. Thesis: <a href="https://opinvisindi.is/bitstream/handle/20.500.11815/4253/steinthor_phd.pdf" target="_blank">Effectively Compiling Parallel Corpora for Machine Translation in Resource-Scarce Conditions</a>.
 </li>
 </ol>
 
