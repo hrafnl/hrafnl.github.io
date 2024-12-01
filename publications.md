@@ -6,7 +6,7 @@ layout: default
 
 <h3>Journal papers</h3>
 <ol>
-  <li><span class="BibAuthor">Steindór O. Ellertsson, Hlynur D. Hlynsson, <b>Hrafn Loftsson</b>, and Emil L. Sigurðsson</span>. 2023. <a href="https://www.annfammed.org/content/annalsfm/21/3/240.full.pdf" target="_blank">Can triaging patients with respiratory symptoms in primary care using artificial intelligence improve patient outcomes? A retrospective diagnostic accuracy study</a>.
+  <li><span class="BibAuthor">Steindór O. Ellertsson, Hlynur D. Hlynsson, <b>Hrafn Loftsson</b>, and Emil L. Sigurðsson</span>. 2023. <a href="https://www.annfammed.org/content/annalsfm/21/3/240.full.pdf" target="_blank">Triaging Patients With Artificial Intelligence for Respiratory Symptoms in Primary Care to Improve Patient Outcomes: A Retrospective Diagnostic Accuracy Study</a>.
   <i>Annals of Family Medicine</i>, <b>21(3)</b>: 240-248.
   </li>
   <li><span class="BibAuthor">Steindór O. Ellertsson, <b>Hrafn Loftsson</b> and Emil L. Sigurðsson</span>. 2021. <a href="https://www.tandfonline.com/doi/full/10.1080/02813432.2021.1973255" target="_blank">Artificial intelligence in the GPs office: A retrospective study on diagnostic accuracy</a>. <i>Scandinavian Journal of Primary Health Care</i>, <b>39(4)</b>: 448-458. <br> DOI: 10.1080/02813432.2021.1973255.
