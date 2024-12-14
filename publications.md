@@ -21,6 +21,8 @@ layout: default
 <hr>
 <h3>Conference and workshop papers </h3>
 <ol>
+  <li><span class="BibAuthor">Þórir Hrafn Harðarson, <b>Hrafn Loftsson</b>, and Stefán Ólafsson</span>. 2025. Aligning Language Models for Icelandic Legal Text Summarization. In <i>Proceedings of The Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)</i>. Tallin, Estonia.
+  </li>
   <li><span class="BibAuthor">Magnús F. Helgason, Kári S. Hlífarson, Baldur Olsen, Steindór O. Ellertsson, <b>Hrafn Loftsson</b>, and Stefán Ólafsson</span>. 2024. <a href="papers/System_for_healthcare.pdf" target="_blank">The Development and Feasibility of a Triage System for Use in Primary Care</a>. In <i>Proceedings of the 12th IEEE International Conference on Healthcare Informatics</i>. Florida, USA. The published version is available <a href="https://ieeexplore.ieee.org/document/10628678" target="_blank">here</a>.
   </li>
   <li><span class="BibAuthor">Ólafur A. Jóhannsson, Birkir H. Arndal, Eysteinn Ö. Jónsson, Stefán Ólafsson, and <b>Hrafn Loftsson</b></span>. 2024. <a href="https://aclanthology.org/2024.sigul-1.11.pdf" target="_blank">Evaluating Icelandic Sentiment Analysis Models Trained on Translated Data</a>. In <i>Proceedings of the 3rd Annual Meeting of the Special Interest Group on Under-resourced Languages @ LREC-COLING 2024</i>. Torino, Italy.
