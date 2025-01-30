@@ -6,6 +6,7 @@ layout: default
 <h2>Teaching</h2>
 
 <ol>
+    <li><span class="BibAuthor">Programming Languages</span>, BSc course, 6 ECTS, Spring 2025</li>
     <li><span class="BibAuthor">Programming</span>, BSc course, 6 ECTS, Fall 2024</li>
     <li><span class="BibAuthor">Programming Languages</span>, BSc course, 6 ECTS, Spring 2024</li>
     <li><span class="BibAuthor">Programming</span>, BSc course, 6 ECTS, Fall 2023</li>
