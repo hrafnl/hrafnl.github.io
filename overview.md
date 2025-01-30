@@ -15,7 +15,7 @@ layout: default
   <tr><td>Non-refereed articles</td><td>9</td></tr>
  </table> 
 
- <h2>Supervison / committees</h2>
+ <h2>Supervision / committees</h2>
 
  <table>
   <tr><th>Type</th><th>Count</th></tr>
@@ -29,7 +29,7 @@ layout: default
   <tr><td>MSc/BSc - The Icelandic Student Innovation Fund</td><td>6</td></tr> 
 </table>
 
-<h2>Course teaching</h2>
+<h2>Teaching</h2>
 <table>
   <tr><th>Name</th><th>Count</th><th>Level</th></tr>
   <tr><td>Programming</td><td>12</td><td>BSc</td></tr>
