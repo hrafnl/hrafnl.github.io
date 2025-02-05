@@ -33,6 +33,8 @@ layout: default
 <hr>
 <h3>Msc students - Theses/Projects</h3>
 <ol>
+  <li><span class="BibAuthor">Brynjar Smári Bragason</span>, M.Ed., June 2025, University of Akureyri. Project (30 ECTS).
+  </li>
   <li><span class="BibAuthor">Örvar Hafsteinn Kárason</span>, M.Sc., June 2023, Reykjavik University. Project (30 ECTS). <a href="https://skemman.is/bitstream/1946/44617/1/Data-driven%20Part-of-Speech%20Taggers%20for%20Icelandic.pdf" target="_blank">Data-driven Part-of-Speech Taggers for Icelandic: Comparison and Error Analysis</a>.
   </li>
   <li><span class="BibAuthor">Róbert Badí Baldursson</span>, M.Sc., June 2023, Reykjavik University. Thesis (60 ECTS). <a href="https://skemman.is/bitstream/1946/44915/1/MSc_Thesis___R%c3%b3bert_Bad%c3%ad_Baldursson.pdf" target="_blank">Dealing with ambiguity in NLP: Finding the best tree in the parse forest</a>.
@@ -47,7 +49,7 @@ layout: default
   </li>
   <li><span class="BibAuthor">Svanhvít Lilja Ingólfsdóttir</span>, M.Sc., June 2020, Reykjavik University. Thesis (60 ECTS): <a href="https://skemman.is/bitstream/1946/36562/1/MSc_thesis_svanhvit_2020_NER_online_version.pdf" target="_blank">Named Entity Recognition for Icelandic – annotated corpus and baselines</a>.
   </li>
-  <li><span class="BibAuthor">Hulda Óladóttir</span>, (Co-supervisor: Professor <a href="https://uni.hi.is/eirikur/" target="_blank">Eiríkur Rögnvaldsson</a>), M.Sc., September 2016, University of Iceland. Thesis (60 ECTS): <a href="https://skemman.is/handle/1946/25924" target="_blank">Upplýsingaútdráttur - Nýting upplýsingaramma til málmyndunar</a> [Information Extraction].
+  <li><span class="BibAuthor">Hulda Óladóttir</span>, (Co-supervisor: Professor <a href="https://uni.hi.is/eirikur/" target="_blank">Eiríkur Rögnvaldsson</a>), M.A., September 2016, University of Iceland. Thesis (60 ECTS): <a href="https://skemman.is/handle/1946/25924" target="_blank">Upplýsingaútdráttur - Nýting upplýsingaramma til málmyndunar</a> [Information Extraction].
   </li>
   <li><span class="BibAuthor">Karin Christiansen</span>, M.Sc., June 2014, Reykjavik University. Project (30 ECTS): <a href="students/MSc_Karin_SumOfIceText_Paper.pdf" target="_blank">Summarization of Icelandic texts</a>.
   </li>

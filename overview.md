@@ -21,7 +21,7 @@ layout: default
   <tr><th>Type</th><th>Count</th></tr>
   <tr><td>PhD thesis</td><td>3</td></tr>
   <tr><td>PhD committees</td><td>4</td></tr>
-  <tr><td>MSc/MA thesis</td><td>13</td></tr>
+  <tr><td>MSc/MA/MEd thesis</td><td>14</td></tr>
   <tr><td>MSc independent study</td><td>5</td></tr>
   <tr><td>MSc/MA committees</td><td>13</td></tr>
   <tr><td>BSc thesis / final project</td><td>9</td></tr> 
