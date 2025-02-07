@@ -31,7 +31,7 @@ layout: default
 
 <!-- --------------------- GRADUATE STUDENTS ------------------ -->
 <hr>
-<h3>Msc students - Theses/Projects</h3>
+<h3>MSc/MA/MEd students - Theses/Projects</h3>
 <ol>
   <li><span class="BibAuthor">Brynjar Smári Bragason</span>, M.Ed., June 2025, University of Akureyri. Project (30 ECTS).
   </li>
@@ -80,7 +80,7 @@ layout: default
 
 <!-- --------------------- COMMITTEES ------------------ -->
 
-<h3>MSc Committees</h3>
+<h3>MSc/MA Committees</h3>
 
 <ol>
   <li><span class="BibAuthor">Kaustab Chandra Sahu</span>, M.Sc., January 2025, Reykjavik University. Project (30 ECTS): Language Models for Clinical Text Analysis. Committee member.
