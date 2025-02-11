@@ -25,7 +25,7 @@ layout: default
   <tr><td>MSc independent study</td><td>5</td></tr>
   <tr><td>MSc/MA committees</td><td>13</td></tr>
   <tr><td>BSc thesis / final project</td><td>9</td></tr> 
-  <tr><td>BSc independent study</td><td>4</td></tr> 
+  <tr><td>BSc independent study</td><td>5</td></tr> 
   <tr><td>MSc/BSc - The Icelandic Student Innovation Fund</td><td>6</td></tr> 
 </table>
 

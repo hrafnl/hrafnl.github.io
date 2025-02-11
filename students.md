@@ -137,6 +137,8 @@ layout: default
 <hr>
 <h3>BSc students - Independent Study / Research Opportunity</h3>
 <ol>
+  <li><span class="BibAuthor">Hlín Eiríksdóttir</span>, Summer 2024, Reykjavik University. Project: <a href="https://github.com/cadia-lvl/Greynir-setningafraedi" target="_blank">Setningafræði fyrir framhaldsskólanema (Syntax Analysis for College Students)</a>.
+  </li>
   <li><span class="BibAuthor">Ólafur P. Geirsson, Guðmundur Harðarson, Guðmundur Þ. Guðmundsson</span>, Spring 2014, Reykjavik University. Project: <a href="students/BScThesis_Ordspor.pdf" target="_blank">Orðspor: Labeling named entities with computer games</a>.
   </li>
   <li><span class="BibAuthor">Emmanuel Günther</span> (exchange student), Fall 2012, University of Applied Sciences, Darmstadt. Project: <a href="students/IntelligentBot.pdf" target="_blank">An Intelligent BOT.</a>
