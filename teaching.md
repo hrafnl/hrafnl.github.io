@@ -47,7 +47,7 @@ layout: default
     <li><span class="BibAuthor">Natural Language Processing</span>, BSc/MSc course, 6/8 ECTS, Fall 2007	</li>
     <li><span class="BibAuthor">Compilers</span>, BSc course, 6 ECTS, Spring 2007</li>
     <li><span class="BibAuthor">Programming Languages</span>, BSc course, 6 ECTS, Fall 2006</li>
-    <li><span class="BibAuthor">Introduction to Language Analysis</span>, BSc (3-week intensive) course, 6 ECTS, Spring 2006</li>
+    <li><span class="BibAuthor">Introduction to Natural Language Processing</span>, BSc (3-week intensive) course, 6 ECTS, Spring 2006</li>
     <li><span class="BibAuthor">Compilers</span>, BSc course, 6 ECTS, Spring 2004</li>
     <li><span class="BibAuthor">Programming Languages</span>, BSc course, 6 ECTS, Fall 2002</li>
     <li><span class="BibAuthor">Compilers</span>, BSc course, 6 ECTS, Spring 2002</li>
