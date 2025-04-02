@@ -33,7 +33,7 @@ layout: default
 <hr>
 <h3>MSc/MA/MEd students - Theses/Projects</h3>
 <ol>
-  <li><span class="BibAuthor">Brynjar Smári Bragason</span>, M.Ed., June 2025, University of Akureyri. Project (30 ECTS).
+  <li><span class="BibAuthor">Brynjar Smári Bragason</span>, M.Ed., June 2025, University of Akureyri. Project (30 ECTS). Orchestrating Cognitive Load, Flow and Deliberate Practice: A Structured Approach to Problem Sequencing in Novice Programming.
   </li>
   <li><span class="BibAuthor">Örvar Hafsteinn Kárason</span>, M.Sc., June 2023, Reykjavik University. Project (30 ECTS). <a href="https://skemman.is/bitstream/1946/44617/1/Data-driven%20Part-of-Speech%20Taggers%20for%20Icelandic.pdf" target="_blank">Data-driven Part-of-Speech Taggers for Icelandic: Comparison and Error Analysis</a>.
   </li>
