@@ -118,7 +118,7 @@ layout: default
 <ol>
   <li><span class="BibAuthor">Dagur Þórisson, Gunnlaugur Eiður Björgvinsson, and Sindri Snær Gunnarsson</span>, B.Sc., June 2025, Reykjavik University. Project: Careflux - Skilaboðagátt.
   </li>
-  <li><span class="BibAuthor">Ólafur Aron Jóhannsson, Birkir Arndal, and Eysteinn Örn Jónsson</span>, B.Sc., January 2024, Reykjavik University. Project: Evaluating Icelandic Sentiment Analysis Models Trained on Translated Data.
+  <li><span class="BibAuthor">Ólafur Aron Jóhannsson, Birkir Arndal, and Eysteinn Örn Jónsson</span>, B.Sc., January 2024, Reykjavik University. Project: <a href="https://skemman.is/bitstream/1946/46224/1/FinalReport.pdf" target="_blank">Evaluating Icelandic Sentiment Analysis Models Trained on Translated Data</a>.
   </li>
   <li><span class="BibAuthor">Baldur Olsen, Kári Steinn Hlífarsson, and Magnús Friðrik Helgason</span>, B.Sc., June 2023, Reykjavik University. Project: <a href="https://skemman.is/bitstream/1946/44385/1/Final_Report.pdf" target="_blank">A Dual Interface Approach for Patient Diagnosis and Doctor Consultation with the Help of Artificial Intelligence</a>.
   </li>
