@@ -21,7 +21,8 @@ layout: default
 <hr>
 <h3>Conference and workshop papers </h3>
 <ol>
-  <li><span class="BibAuthor">Jón Fr. Daðason <b>Hrafn Loftsson</b></span>. 2025. Bilingual Augmentation for Low- and Medium-Resource Languages. In <i>Proceedings of the 24th IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology</i>. London, United Kingdom.
+  <li><span class="BibAuthor">Jón Fr. Daðason <b>Hrafn Loftsson</b></span>. 2026. Subword Tokenization for Low- and Medium-Resource Languages: A Systematic Evaluation. In <i>Proceedings of JCAI-ECAI 2026, the 35th International Joint Conference on Artificial Intelligence</i>. Bremen, Germany.
+  </li><li><span class="BibAuthor">Jón Fr. Daðason <b>Hrafn Loftsson</b></span>. 2025. Bilingual Augmentation for Low- and Medium-Resource Languages. In <i>Proceedings of the 24th IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology</i>. London, United Kingdom.
   </li>
   <li><span class="BibAuthor">Þórir Hrafn Harðarson, <b>Hrafn Loftsson</b>, and Stefán Ólafsson</span>. 2025. <a href="https://dspace.ut.ee/items/219d7754-4d22-4c96-833d-64ed1378b746" target="_blank">Aligning Language Models for Icelandic Legal Text Summarization</a>. In <i>Proceedings of The Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)</i>. Tallin, Estonia.
   </li>
