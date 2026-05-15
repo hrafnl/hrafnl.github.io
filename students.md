@@ -85,7 +85,7 @@ layout: default
 <ol>
   <li><span class="BibAuthor">Justyna Micota</span>, M.Sc., June 2026, Reykjavik University. Project (30 ECTS). Committee member.
   </li>
-  <li><span class="BibAuthor">Kaustab Chandra Sahu</span>, M.Sc., January 2025, Reykjavik University. Project (30 ECTS): Language Models for Clinical Text Analysis. Committee member.
+  <li><span class="BibAuthor">Kaustab Chandra Sahu</span>, M.Sc., January 2025, Reykjavik University. Project (30 ECTS): <a href="https://skemman.is/bitstream/1946/49119/1/Language_Models_for_Classification_of_Patient_Text_Messages.pdf" target="_blank"> Language Models for Clinical Text Analysis</a>. Committee member.
   </li>
   <li><span class="BibAuthor">Atli Egilsson</span>, M.Sc., January 2025, Reykjavik University. Project (30 ECTS): <a href="https://skemman.is/bitstream/1946/49121/2/closed_thesis_request-Atlisigned2025.pdf" target="_blank">Understanding Icelandic Insurance Claims: From text to incident categories</a>. Committee member.
   </li>
