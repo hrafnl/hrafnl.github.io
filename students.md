@@ -116,7 +116,10 @@ layout: default
 <hr>
 <h3>BSc students - Research theses / Final projects</h3>
 <ol>
-  <li><span class="BibAuthor">Dagur Þórisson, Gunnlaugur Eiður Björgvinsson, and Sindri Snær Gunnarsson</span>, B.Sc., June 2025, Reykjavik University. Project: Careflux - Skilaboðagátt.
+  <li><span class="BibAuthor">Víðir. D. Krogsgaard and Axel Snær Ammendrup Atlason</span>, B.Sc., June 2026, Reykjavik University. Project: TUI Application Creation Through a Domain
+Specific Programming Language. Examiner.
+  </li>
+  <li><span class="BibAuthor">Dagur Þórisson, Gunnlaugur Eiður Björgvinsson, and Sindri Snær Gunnarsson</span>, B.Sc., June 2025, Reykjavik University. Project: <a href="https://skemman.is/bitstream/1946/50472/4/Careflux___Sk%c3%bdrsla.pdf" target="_blank">Careflux - Skilaboðagátt</a>.
   </li>
   <li><span class="BibAuthor">Ólafur Aron Jóhannsson, Birkir Arndal, and Eysteinn Örn Jónsson</span>, B.Sc., January 2024, Reykjavik University. Project: <a href="https://skemman.is/bitstream/1946/46224/1/FinalReport.pdf" target="_blank">Evaluating Icelandic Sentiment Analysis Models Trained on Translated Data</a>.
   </li>
