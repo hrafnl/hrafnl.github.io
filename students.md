@@ -33,7 +33,7 @@ layout: default
 <hr>
 <h3>MSc/MA/MEd students - Theses/Projects</h3>
 <ol>
-  <li><span class="BibAuthor">Brynjar Smári Bragason</span>, M.Ed., June 2025, University of Akureyri. Project (30 ECTS). Orchestrating Cognitive Load, Flow and Deliberate Practice: A Structured Approach to Problem Sequencing in Novice Programming.
+  <li><span class="BibAuthor">Brynjar Smári Bragason</span>, M.Ed., June 2025, University of Akureyri. Project (30 ECTS). <a href="https://skemman.is/bitstream/1946/51230/1/Orchestrating%20Cognitive%20Load%2c%20Flow%20and%20Deliberate%20Practice.pdf" target=_blank"> Orchestrating Cognitive Load, Flow and Deliberate Practice: A Structured Approach to Problem Sequencing in Novice Programming</a>.
   </li>
   <li><span class="BibAuthor">Örvar Hafsteinn Kárason</span>, M.Sc., June 2023, Reykjavik University. Project (30 ECTS). <a href="https://skemman.is/bitstream/1946/44617/1/Data-driven%20Part-of-Speech%20Taggers%20for%20Icelandic.pdf" target="_blank">Data-driven Part-of-Speech Taggers for Icelandic: Comparison and Error Analysis</a>.
   </li>
@@ -83,6 +83,8 @@ layout: default
 <h3>MSc/MA Committees</h3>
 
 <ol>
+  <li><span class="BibAuthor">Justyna Micota</span>, M.Sc., June 2026, Reykjavik University. Project (30 ECTS). Committee member.
+  </li>
   <li><span class="BibAuthor">Kaustab Chandra Sahu</span>, M.Sc., January 2025, Reykjavik University. Project (30 ECTS): Language Models for Clinical Text Analysis. Committee member.
   </li>
   <li><span class="BibAuthor">Atli Egilsson</span>, M.Sc., January 2025, Reykjavik University. Project (30 ECTS): <a href="https://skemman.is/bitstream/1946/49121/2/closed_thesis_request-Atlisigned2025.pdf" target="_blank">Understanding Icelandic Insurance Claims: From text to incident categories</a>. Committee member.
