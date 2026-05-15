@@ -10,7 +10,7 @@ layout: default
 <ol>
 <li><span class="BibAuthor">Steindór Oddur Ellertsson</span>. Ph.D., February 2025. Thesis: The use of machine learning models for diagnostic and outcome prediction in primary care. Supervisor: <a href="https://iris.rais.is/is/persons/emil-l%C3%A1rus-sigur%C3%B0sson" target="_blank">Emil Lárus Sigurðsson</a>.  Co-supervisor: Hrafn Loftsson.
 </li>
-<li><span class="BibAuthor">Jón Friðrik Daðason</span>. Ph.D., March 2025. Thesis: Language representation models for low-resource languages.
+<li><span class="BibAuthor">Jón Friðrik Daðason</span>. Ph.D., March 2025. Thesis: <a href="https://opinvisindi.is/server/api/core/bitstreams/de8a356c-4811-456d-81c3-8648ea3b7003/content" target="_blank">Language representation models for low-resource languages</a>.
 </li>
 <li><span class="BibAuthor">Steinþór Steingrímsson</span>, Ph.D., June 2023. Thesis: <a href="https://opinvisindi.is/bitstream/handle/20.500.11815/4253/steinthor_phd.pdf" target="_blank">Effectively Compiling Parallel Corpora for Machine Translation in Resource-Scarce Conditions</a>. Co-supervisor: <a href="https://www.computing.dcu.ie/~away/" target="_blank">Andy Way</a>. 
 </li>
@@ -33,7 +33,7 @@ layout: default
 <hr>
 <h3>MSc/MA/MEd students - Theses/Projects</h3>
 <ol>
-  <li><span class="BibAuthor">Brynjar Smári Bragason</span>, M.Ed., June 2025, University of Akureyri. Project (30 ECTS). <a href="https://skemman.is/bitstream/1946/51230/1/Orchestrating%20Cognitive%20Load%2c%20Flow%20and%20Deliberate%20Practice.pdf" target=_blank"> Orchestrating Cognitive Load, Flow and Deliberate Practice: A Structured Approach to Problem Sequencing in Novice Programming</a>.
+  <li><span class="BibAuthor">Brynjar Smári Bragason</span>, M.Ed., June 2025, University of Akureyri. Project (30 ECTS). <a href="https://skemman.is/bitstream/1946/51230/1/Orchestrating%20Cognitive%20Load%2c%20Flow%20and%20Deliberate%20Practice.pdf" target="_blank"> Orchestrating Cognitive Load, Flow and Deliberate Practice: A Structured Approach to Problem Sequencing in Novice Programming</a>.
   </li>
   <li><span class="BibAuthor">Örvar Hafsteinn Kárason</span>, M.Sc., June 2023, Reykjavik University. Project (30 ECTS). <a href="https://skemman.is/bitstream/1946/44617/1/Data-driven%20Part-of-Speech%20Taggers%20for%20Icelandic.pdf" target="_blank">Data-driven Part-of-Speech Taggers for Icelandic: Comparison and Error Analysis</a>.
   </li>
