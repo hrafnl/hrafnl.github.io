@@ -40,5 +40,6 @@ layout: default
   <tr><td>App Development</td><td>2</td><td>BSc</td></tr>
   <tr><td>Web Mining</td><td>2</td><td>MSc</td></tr>
   <tr><td>Computer Graphics</td><td>2</td><td>BSc</td></tr>
+  <tr><td>Practical Project 1</td><td>1</td><td>BSc</td></tr>
   <tr><td>Introduction to Natural Language Processing</td><td>1</td><td>BSc</td></tr>
 </table>
